@@ -1,3 +1,4 @@
+BEGIN;
 DROP TABLE IF EXISTS vaers_data;
 
 CREATE TABLE vaers_data AS
@@ -29,3 +30,5 @@ WHERE v.vax_type ilike '%COVID19%'
 GROUP BY v.vaers_id, v.vax_type, v.vax_manu, v.vax_name,
          d.age_yrs, d.sex, d.symptom_text,
          DATE_PART('year', d.recvdate::date), v.year;
+
+END;

@@ -4,7 +4,7 @@ CREATE TEMP TABLE non_symptoms (
 );
 
 COPY non_symptoms(value)
-    FROM '../data/non_symptoms.csv'
+    FROM '../data/non_symptom_list_version_2.csv'
     DELIMITER ','
     CSV HEADER;
 
