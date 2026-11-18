@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / local config
+.env
+config.env
+*.key
+
+# Local run artifacts (checkpointed batches, per-iteration dumps). Only the
+# final per-model/per-method result files are tracked, gzipped, under results/.
+*_part_*.csv
+*_iter.csv
+*_iter_*.csv
+offload/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
