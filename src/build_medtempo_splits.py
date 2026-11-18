@@ -12,8 +12,6 @@ Writes
   data/medtempo_NT.csv               MedTempo-NT: reports whose gold timeline is
                                      "No temporal information found" (2181)
   data/gold__num_stages.csv          number of stage groups per MedTempo-T report
-  results/missing_from_results.txt   MedTempo-T ids that have no prediction in the
-                                     result files shipped under results/
 
 Rules (match Section 3 of the paper: 6000 sampled -> 653 excluded for temporal
 ambiguity -> 5347 MedTempo = 3166 T + 2181 NT):
@@ -21,13 +19,9 @@ ambiguity -> 5347 MedTempo = 3166 T + 2181 NT):
   * gold timeline = final_corrected_version when the annotators corrected the
     o4-mini draft, otherwise llm_result_formatted (the accepted draft).
   * a report is in T unless its gold timeline is "No temporal information found".
-The earlier notebook filter also tested llm_result_formatted on its own, which
-dropped the 10 reports where o4-mini reported no progression but the annotators
-corrected it to a multi-stage timeline (3156 instead of 3166).
 """
 from __future__ import annotations
 
-import gzip
 import json
 import ast
 import re
@@ -37,7 +31,6 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-RESULTS = ROOT / "results"
 GOLD_COLS = ["vaers_id", "symptom_text", "symptom_list", "llm_result_formatted",
              "final_corrected_version", "final_result"]
 NO_TEMPORAL = "no temporal information"
@@ -86,24 +79,6 @@ def main() -> None:
     print(f"MedTempo-NT          : {len(NT)}  {NT['vaers_id'].map(manu).value_counts().to_dict()}")
     print(f"T stage groups       : mean {stages['num_stages'].mean():.2f}, "
           f"min {stages['num_stages'].min()}, max {stages['num_stages'].max()}")
-
-    # Which MedTempo-T reports have no prediction in the shipped result files?
-    missing: dict[int, set[str]] = {}
-    for f in sorted(RESULTS.glob("*/*.csv.gz")):
-        if "temporal_gate" in f.name:
-            continue
-        with gzip.open(f, "rt") as fh:
-            ids = set(pd.read_csv(fh, usecols=["vaers_id"])["vaers_id"].astype(int))
-        for vid in set(T["vaers_id"]) - ids:
-            missing.setdefault(vid, set()).add(f.relative_to(RESULTS).as_posix())
-    n_files = sum(1 for f in RESULTS.glob("*/*.csv.gz") if "temporal_gate" not in f.name)
-    with open(RESULTS / "missing_from_results.txt", "w") as fh:
-        fh.write("# MedTempo-T reports with no prediction in the result files under results/\n"
-                 "# (they were dropped by the earlier temporal filter, see src/build_medtempo_splits.py)\n"
-                 "# vaers_id\tvaccine\tfiles_missing_from\n")
-        for vid in sorted(missing):
-            fh.write(f"{vid}\t{manu.get(vid, '?')}\t{len(missing[vid])}/{n_files}\n")
-    print(f"T ids missing from result files: {len(missing)} (listed in results/missing_from_results.txt)")
 
 
 if __name__ == "__main__":

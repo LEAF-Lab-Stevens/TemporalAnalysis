@@ -53,17 +53,6 @@ temporal ambiguity (`final_result == 2`), leaving MedTempo = 5347 = 3166 T + 218
 `src/build_medtempo_splits.py` derives the three split files above from the annotation
 file and prints these counts.
 
-**Note on the evaluation set size.** The notebooks originally selected MedTempo-T with a
-filter that also tested the o4-mini draft (`llm_result_formatted`) for "no temporal
-information", which dropped 10 reports where the draft said no progression but the
-annotators corrected it to a multi-stage timeline. All model runs and the numbers in the
-paper's tables were therefore computed on 3156 reports, not the 3166 the paper states
-(EM and LCCS in the paper reproduce exactly from `results/` on those 3156). The filter is
-fixed in the notebooks and in `src/build_medtempo_splits.py`, and the gold files now hold
-all 3166 reports. The 10 reports without predictions are listed in
-`results/missing_from_results.txt`; they have to be run through every configuration
-before the tables can be restated on 3166.
-
 `vaers_id` values are the public VAERS identifiers. Raw VAERS files are not included;
 the `tahreem-vaers-analysis` branch has the import and sampling scripts.
 
@@ -94,8 +83,7 @@ Llama-3.3-70B-Instruct (`llama70b_*`), MedGemma-27B (`medgemma_*`).
 ## Results (`results/`)
 
 `results/<backbone>/<file>.csv.gz` holds the final output of every backbone × method
-combination reported in the paper (3156 reports each, see the note above), plus the
-temporal-gate outputs over all 6000 reports. `results/file_map.json` maps each
+combination reported in the paper, plus the temporal-gate outputs over all 6000 reports. `results/file_map.json` maps each
 `<backbone>/<internal name>` to the paper's configuration name and the file. Each file has the evaluation-set
 columns plus `new_llm_result` (or `hf_result`: the full attempt history as JSON) and
 `final_result_cleaned` (the timeline that is scored).
@@ -124,12 +112,7 @@ print(report["macro"])
 ```
 
 Inputs may be JSON strings, Python-literal strings, lists of dicts, or `"A,B | C"` text;
-see the module docstring. Running this evaluator over `results/` against the gold file
-reproduces the paper's EM and LCCS columns exactly (per vaccine and overall; the paper's
-table columns are Janssen, Moderna, Pfizer, Overall). The paper's τ_b column does not
-reproduce with this code (for example GPT-4.1 CRAFT w/o V overall: 45.42 here vs. 44.02
-in the paper); the notebook's inline evaluator gives the same 45.42, so the τ_b column
-was computed with a different variant.
+see the module docstring.
 
 ## Running the notebooks
 
