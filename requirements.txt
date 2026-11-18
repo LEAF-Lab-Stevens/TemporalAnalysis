@@ -1,0 +1,18 @@
+# Core (evaluation, analysis, data handling)
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+python-dotenv
+
+# Closed-weight model APIs (notebooks/craft, notebooks/baselines, notebooks/temporal_gating)
+openai
+anthropic
+
+# Open-weight models (hf_*.ipynb, open_source_hf_*.ipynb) -- GPU required
+torch
+transformers
+bitsandbytes
+vllm
+# flash-attn is optional; install separately if your GPU supports it
