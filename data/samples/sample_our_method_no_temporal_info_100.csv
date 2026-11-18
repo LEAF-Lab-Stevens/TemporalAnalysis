@@ -1,0 +1,611 @@
+vaers_id,symptom_text,symptom_list,llm_result,llm_result_formatted,final_corrected_version,final_result,no_temporal_info
+2322043,"Pt to ED 5/28 for SOB, generalized weakness and fatigue. COVID+ 5/28 not requiring oxygen or meds. 5/30 pt with no complaints of pain, vitals are stable,  denies pain, no acute CR distress. 5/31 pt on room air with no complains of pain or discomfort at time. 6/1 pt received alert and oriented x4 with some agitation, on room air still. 6/2 no new complaints, no sob, cough, had a soft normal BM. Pt discharged 6/3.","['Asthenia', 'Cough', 'Dyspnoea', 'Fatigue']",No temporal information found,No temporal information found,,1,True
+1938729,"DRUG INEFFECTIVE; COVID-19 infection; This is a literature report.   A 52-year-old man with a history of a systemic autoinflammatory disease had been previously found to have a gain of function mutation in NLRC4 (V341A) causing AIFEC. At 2 weeks of age, he developed failure to thrive; fever; nonbilious, nonbloody vomiting; and diarrhea, requiring a prolonged hospital course. He has experienced lifelong polyarthritis and episodic fevers that were initially attributed to seronegative psoriatic arthritis and was treated with prednisone and sulfasalazine. Nine years prior to this admission, this patients first son died at 23 days of age after developing HLH, prompting exome sequencing. Neither of the patients parents were carriers of the mutation and had not experienced any inflammatory diseases. Approximately one week after his sons death, the patient developed a fever 40.6degreeC) and cough with progression to hypoxemic respiratory failure necessitating hospitalization. He developed pancytopenia, splenomegaly, and acute respiratory distress syndrome, requiring mechanical ventilation and vasopressor therapy. His ferritin was elevated to >29 000 ng/mL and a bone marrow biopsy showed evidence of hemophagocytosis. He was diagnosed with HLH and was treated with intravenous immunoglobulin, cyclosporine, and methylprednisolone with remission of his HLH. He remained off immunosuppressive therapy until 3 years later when he was started on the anti IL 1r alpha monoclonal antibody anakinra, which blocks IL 1 and IL 18 signaling, to prevent inflammatory episodes. Despite this, he experiences an average of 1 flare yearly that manifests as abdominal hyperalgesia, fevers, and cough. His flares are managed with prednisone. COVID-19 DISEASE COURSE Ten days prior to admission, the patient had a regular visit with his rheumatologist where he had unremarkable laboratory results and felt well. Seven days prior to admission, he received a messenger RNA based SARS-CoV-2 vaccine and the next day developed a fever to 38.3degree C, chills, fatigue, a dry cough, and hyperalgesia of the skin overlying his anterior thorax. Initial clinical suspicion was for an adverse vaccine reaction for which he was advised to take ibuprofen The next day his fever worsened to 39.3 degree C; the possibility of an AIFEC flare was raised with concern for possible HLH, and he was started on 40 mg prednisone daily. Over the next several days, his fever, chills, and hyperalgesia improved although his cough persisted. On the day prior to admission, he became febrile to 38.8 degree C with worsening cough. His anakinra was increased from 100 mg to 200 mg daily. His C-reactive protein (CRP) level was elevated to 93.4 ng/mL, his erythrocyte sedimentation rate (ESR) was elevated to 66 mm/hour, and his ferritin level was 588 ng/mL. He had new-onset thrombocytopenia (91 103 platelets/ L) and lymphopenia (0.5 103 cells/ L). A chest radiograph showed bibasilar, ground-glass opacities concerning for a new-onset multifocal inflammatory process, which raised concerns for an acute infectious process. The next day, he was sent to the hospital out of concern for possible HLH. On presentation he was found to be SARS-CoV 2 polymerase chain reaction positive and was admitted for further management. Upon further discussion, the patient noted that in the 2 weeks prior to admission, he had been to several indoor dining establishments. Furthermore, the patients roommate was not working from home and could have been a route of possible exposure to SARS CoV 2. Upon admission, he was afebrile, and well appearing. He complained of only a persistent cough but denied headache, nausea, vomiting, diarrhea, anosmia, and ageusia. His blood oxygen saturation was 98% on room air and he was not tachypneic. His examination was only notable for bilateral crackles. A cytokine panel showed an IL 1beta level of <1.0 ng/dL, a soluble CD25 level of 2314 ng/dL, an IL 6 level of 7.9 ng/dL, and a TNF level of 11.7 ng/dL. His triglycerides were 68 mg/dL. He was continued on prednisone and the increased anakinra for the duration of his COVID-19 infection. His clinical status remained stable throughout the next 2 days and his inflammatory markers improved, with his CRP decreasing to 33.6 ng/mL and his ESR to 48 mm/hour. His thrombocytopenia improved to 153 103 platelets/L and his lymphopenia improved to 1.1 103 cells/L. Given his resolving inflammatory markers and stable condition, he was discharged home to complete the remainder of his clinical course. Three days after discharge, his cough and fatigue resolved, his inflammatory markers had returned to baseline and his cytopenias improved. Nineteen days after COVID 19 diagnosis, repeat laboratory tests showed stable hematologic markers, and this patient had returned to his usual physical activities. Clinical course and laboratory data. Abbreviations: ALC, absolute lymphocyte count; ALT, alanine aminotransferase; ALP, alkaline phosphatase; ANC, absolute neutrophil count; AST, aspartate aminotransferase; BUN, blood urea nitrogen; COVID 19, coronavirus disease 2019; CRP, C reactive protein; ESR, erythrocyte sedimentation rate; IFN, interferon; IL, interleukin; NSAID, nonsteroidal anti-inflammatory drug; PTT, partial thromboplastin time; SARS-CoV 2, severe acute respiratory syndrome coronavirus 2; sCD25, soluble CD25; TNF, tumor necrosis factor; WBC, white blood cell count. Discussion: Here, we highlight a patient with a well-defined inflammasomopathy to highlight that immunologic suppression with high-dose anakinra and prednisone in this patient with AIFEC is not associated with worsened outcome of COVID-19 or an inability to resolve clinical symptoms.Indeed, this patient's disease course may have been improved by anakinra and prednisone and could explain his relatively mild infection. Further probing for possible exposures at the time of the initial fever, initially thought to be due to the vaccine, may have increased the suspicion of active SARS-CoV-2 infection and prompted earlier testing and treatment (eg, monoclonal antibody therapy).  No follow-up attempts are possible; information about lot/batch number cannot be obtained. No further information is expected.; Sender's Comments: Based on possible temporal relationship the causal role of the BNT162B2 Vaccination cannot be excluded for reported events  The impact of this report on the benefit/risk profile of the Pfizer product is evaluated as part of Pfizer procedures for safety evaluation, including the review and analysis of aggregate data for adverse events. Any safety concern identified as part of this review, as well as any appropriate action in response, will be promptly notified to regulatory authorities, Ethics Committees, and Investigators, as appropriate","['Activated partial thromboplastin time prolonged', 'Blood alkaline phosphatase', 'Blood creatinine', 'Blood fibrinogen', 'Body temperature increased', 'Haemoglobin', 'Interferon gamma level', 'Red blood cell sedimentation rate']","[
+  {
+    ""Body temperature increased"": [
+      ""fever to 38.3 °C""
+    ]
+  },
+  {
+    ""Red blood cell sedimentation rate"": [
+      ""erythrocyte sedimentation rate (ESR) was elevated to 66 mm/hour""
+    ]
+  },
+  {
+    ""Activated partial thromboplastin time prolonged"": [
+      ""none""
+    ],
+    ""Blood alkaline phosphatase"": [
+      ""none""
+    ],
+    ""Blood creatinine"": [
+      ""none""
+    ],
+    ""Blood fibrinogen"": [
+      ""none""
+    ],
+    ""Haemoglobin"": [
+      ""none""
+    ],
+    ""Interferon gamma level"": [
+      ""none""
+    ]
+  }
+]","[
+  {
+    ""Body temperature increased"": [
+      ""fever to 38.3 \u00b0C""
+    ]
+  },
+  {
+    ""Red blood cell sedimentation rate"": [
+      ""erythrocyte sedimentation rate (ESR) was elevated to 66 mm/hour""
+    ]
+  },
+  {
+    ""Haemoglobin"": [
+      ""none""
+    ],
+    ""Blood fibrinogen"": [
+      ""none""
+    ],
+    ""Interferon gamma level"": [
+      ""none""
+    ],
+    ""Blood alkaline phosphatase"": [
+      ""none""
+    ],
+    ""Blood creatinine"": [
+      ""none""
+    ],
+    ""Activated partial thromboplastin time prolonged"": [
+      ""none""
+    ]
+  }
+]",No temporal information found,0,True
+1176518,"ACHING IN BILATERAL HANDS; CHILLS; FEVER; HEADACHE; NAUSEA; NO TASTE; DIZZINESS; ARM FEELS HEAVY; This spontaneous report received from a patient concerned a 60 year old female. The patient's weight was 145 pounds, and height was 62 inches. The patient's past medical history included glaucoma, and concurrent conditions included no known drug allergies, nonsmoker, non alcohol user, and no known drug allergies. The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, route of admin not reported, batch number: 1805018 expiry: UNKNOWN) dose was not reported, administered on 25-MAR-2021 to Left Arm for prophylactic vaccination. No concomitant medications were reported. On 25-MAR-2021, the subject experienced no taste. On 25-MAR-2021, the subject experienced dizziness. On 25-MAR-2021, the subject experienced arm feels heavy. On 25-MAR-2021, the subject experienced aching in bilateral hands. On 25-MAR-2021, the subject experienced chills. On 25-MAR-2021, the subject experienced fever. On 25-MAR-2021, the subject experienced headache. On 25-MAR-2021, the subject experienced nausea. The action taken with covid-19 vaccine ad26.cov2.s was not applicable. The patient recovered from nausea on 26-MAR-2021, and had not recovered from fever, no taste, chills, headache, arm feels heavy, dizziness, and aching in bilateral hands. This report was non-serious.","['Ageusia', 'Chills', 'Dizziness', 'Headache', 'Nausea', 'Pain in extremity', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+2503140,"Around February 2022, I started to experience pain in my arms, back, neck and thighs. I was extremely stiff in the morning. I was given prednisone for that. I started with 5mg and now I'm down to 1mg. I can still feel the pain in my right shoulder. I couldn't raise my arms over my head, it was that bad. I was diagnosed with PMR (Poly Myalgia Rheumatica). I've never experienced anything like this in my life. I'm not sure where it came from. After receiving my COVID-19 vaccine, I also received the flu shot on 10/11/2021, Shingles on 11/17/2021 and 2nd shingles shot was 02/05/2022.","['Arthralgia', 'Back pain', 'Imaging procedure', 'Injected limb mobility decreased', 'Musculoskeletal stiffness', 'Neck pain', 'Pain in extremity', 'Polymyalgia rheumatica']",No temporal information found,No temporal information found,,1,True
+1801761,"Syncope episode with seizure. Constant migraine. Low blood pressure. Chest pains, Heart palpitations, Pulsating to the brain. Weakness. Unable walk or stand for short periods. Dizziness.","['Asthenia', 'Chest pain', 'Dizziness', 'Dysstasia', 'Gait disturbance', 'Head discomfort', 'Hypotension', 'Migraine', 'Palpitations', 'Seizure', 'Syncope']",No temporal information found,No temporal information found,,1,True
+1230955,"Fever, chills, muscle/head/body aches, difficulty breathing, fatigue lasted for 3 1/2 to 4 days.","['Chills', 'Dyspnoea', 'Fatigue', 'Headache', 'Myalgia', 'Pain', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+1171632,"Several days after injection:  arm pain, large pink rash, warm, itchy at arm site.  Dr. looked at it on 03/22/2021 and didn?t believe it was cellulitis.  4-5 days later, no symptoms","['Injection site pain', 'Injection site pruritus', 'Injection site rash', 'Injection site warmth', 'Pain in extremity', 'Pruritus', 'Rash', 'Skin warm']",No temporal information found,No temporal information found,,1,True
+1832567,"could not move to put on his shoes after dose 3/could not bend over after dose 3; major side effects after dose 3; extreme fatigue after dose 3; stiffness hip joint after dose 3/stiffness front of the leg near knee after dose 3; stiffness shoulder after dose 3/stiffness deltoids after dose 3/stiffness upper back after dose 3; severe stiffness after dose 3 and ongoing; This spontaneous case was reported by a consumer and describes the occurrence of MUSCULOSKELETAL STIFFNESS (severe stiffness after dose 3 and ongoing), MOBILITY DECREASED (could not move to put on his shoes after dose 3/could not bend over after dose 3), JOINT STIFFNESS (stiffness hip joint after dose 3/stiffness front of the leg near knee after dose 3), MUSCULOSKELETAL STIFFNESS (stiffness shoulder after dose 3/stiffness deltoids after dose 3/stiffness upper back after dose 3) and VACCINATION COMPLICATION (major side effects after dose 3) in a 71-year-old male patient who received mRNA-1273 (Moderna COVID-19 Vaccine) for COVID-19 vaccination. The occurrence of additional non-serious events is detailed below. Concurrent medical conditions included Coronary artery disease. On 07-Sep-2021, the patient received third dose of mRNA-1273 (Moderna COVID-19 Vaccine) (unknown route) 1 dosage form. In 2021, the patient experienced MUSCULOSKELETAL STIFFNESS (severe stiffness after dose 3 and ongoing), JOINT STIFFNESS (stiffness hip joint after dose 3/stiffness front of the leg near knee after dose 3), MUSCULOSKELETAL STIFFNESS (stiffness shoulder after dose 3/stiffness deltoids after dose 3/stiffness upper back after dose 3) and FATIGUE (extreme fatigue after dose 3). On an unknown date, the patient experienced MOBILITY DECREASED (could not move to put on his shoes after dose 3/could not bend over after dose 3) and VACCINATION COMPLICATION (major side effects after dose 3). At the time of the report, MUSCULOSKELETAL STIFFNESS (severe stiffness after dose 3 and ongoing), JOINT STIFFNESS (stiffness hip joint after dose 3/stiffness front of the leg near knee after dose 3) and MUSCULOSKELETAL STIFFNESS (stiffness shoulder after dose 3/stiffness deltoids after dose 3/stiffness upper back after dose 3) had not resolved and MOBILITY DECREASED (could not move to put on his shoes after dose 3/could not bend over after dose 3), VACCINATION COMPLICATION (major side effects after dose 3) and FATIGUE (extreme fatigue after dose 3) outcome was unknown. The patient administered third dose and not booster dose because he was travelling and was advised by the doctor to get it. The patient reported that did a full battery of lab work, all tests came back normal.The concomitant medication included medication for blood pressure and heart medication. No treatment medication was reported.   This case was linked to MOD-2021-363353, MOD-2021-363189 (Patient Link).   Most recent FOLLOW-UP information incorporated above includes: On 25-Oct-2021: Significant Follow Up added: Events added, Reporter added, Patient details added and concomitant medication details added.","['Fatigue', 'Joint stiffness', 'Musculoskeletal stiffness', 'Vaccination complication']",No temporal information found,No temporal information found,,1,True
+1168283,"Headache, chills, low grade fever, tiredness, body aches/pains. Pain at inj. Site.  Had all of these symptoms up until 12 noon in 4/5/21","['Chills', 'Fatigue', 'Headache', 'Injection site pain', 'Pain', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+2032847,"fever, headache, nasal and chest congestion with post nasal drip, cough","['Cough', 'Headache', 'Nasal congestion', 'Pyrexia', 'Respiratory tract congestion', 'Upper-airway cough syndrome']",No temporal information found,No temporal information found,,1,True
+2661562,"Myalgia Headache, fatigue, body chills Narrative:  12 hours after vaccination patient started experiencing headaches, joint and body aches, chills. Employee had to miss one day of  work. Symptoms resolved 24 hours after starting.","['Arthralgia', 'Chills', 'Fatigue', 'Headache', 'Myalgia', 'Pain']","""No temporal information found""",No temporal information found,,1,True
+1613409,"decided not to take 2nd dose; tired, fatigued; joints hurt; headaches; swollen at the injection site; sore at the injection site; injection site red knot; depressed; had foggy thinking.; slept like 20 hours; injection site red knot that was about 4 inches across; joints hurt 10 times more than normal; This spontaneous case was reported by a consumer (subsequently medically confirmed) and describes the occurrence of DEPRESSION (depressed), FEELING ABNORMAL (had foggy thinking.), HYPERSOMNIA (slept like 20 hours), VACCINATION SITE NODULE (injection site red knot that was about 4 inches across) and CONDITION AGGRAVATED (joints hurt 10 times more than normal) in a 62-year-old female patient who received mRNA-1273 (Moderna COVID-19 Vaccine) (batch no. 017B21A) for COVID-19 vaccination. The occurrence of additional non-serious events is detailed below.     Concurrent medical conditions included HLA-B*27 positive, Antinuclear antibodies present (SSB/LA antigens. I have autoimmune antigens in my blood, but they're not real strong.), Macrocytosis, Joint pain and Ill-defined disorder (I have 10 or 15 separate diagnoses).    On 05-Apr-2021, the patient received first dose of mRNA-1273 (Moderna COVID-19 Vaccine) (unknown route) 1 dosage form. On 13-Apr-2021, the patient experienced DEPRESSION (depressed), FEELING ABNORMAL (had foggy thinking.), HYPERSOMNIA (slept like 20 hours), VACCINATION SITE NODULE (injection site red knot that was about 4 inches across), CONDITION AGGRAVATED (joints hurt 10 times more than normal), FATIGUE (tired, fatigued), ARTHRALGIA (joints hurt), HEADACHE (headaches), VACCINATION SITE SWELLING (swollen at the injection site), VACCINATION SITE PAIN (sore at the injection site) and VACCINATION SITE ERYTHEMA (injection site red knot). On an unknown date, the patient experienced PRODUCT DOSE OMISSION ISSUE (decided not to take 2nd dose). At the time of the report, DEPRESSION (depressed), FEELING ABNORMAL (had foggy thinking.), HYPERSOMNIA (slept like 20 hours), VACCINATION SITE NODULE (injection site red knot that was about 4 inches across), CONDITION AGGRAVATED (joints hurt 10 times more than normal), FATIGUE (tired, fatigued), ARTHRALGIA (joints hurt), HEADACHE (headaches), VACCINATION SITE SWELLING (swollen at the injection site), VACCINATION SITE PAIN (sore at the injection site) and VACCINATION SITE ERYTHEMA (injection site red knot) was resolving and PRODUCT DOSE OMISSION ISSUE (decided not to take 2nd dose) outcome was unknown.        The action taken with mRNA-1273 (Moderna COVID-19 Vaccine) (Unknown) was unknown.       No concomitant product use was reported No treatment information was provided","['Arthralgia', 'Condition aggravated', 'Depression', 'Fatigue', 'Feeling abnormal', 'Headache', 'Hypersomnia', 'Vaccination site erythema', 'Vaccination site nodule', 'Vaccination site pain', 'Vaccination site swelling']",No temporal information found,No temporal information found,,1,True
+2175790,"Felt dizzy as soon as first injection; fast heartbeat; nervous; Muscle ache; Arm hurts; chill on chest up and down; This is a spontaneous report received from contactable reporter(s) (Consumer or other non HCP). The reporter is the patient.  A 33 year-old male patient received bnt162b2 (COMIRNATY), administered in arm right, administration date 07Oct2021 (Lot number: FC3184) at the age of 33 years as dose 1, single for covid-19 immunisation. Relevant medical history included: ""Kidney replacement transplant"" (unspecified if ongoing), notes: Years ago; ""Known allergies: Penicillin"" (unspecified if ongoing). Family history included: ""heart disease"" (unspecified if ongoing), notes: 2 Family members died of Heart Disease. The patient took concomitant medications. Past drug history included: Augmentin, reaction(s): ""Known allergies: Augmentin"". The following information was reported: DIZZINESS (non-serious) with onset 07Oct2021 09:30, outcome ""recovered with sequelae"", described as ""Felt dizzy as soon as first injection""; HEART RATE INCREASED (non-serious) with onset 07Oct2021 09:30, outcome ""recovered with sequelae"", described as ""fast heartbeat""; NERVOUSNESS (non-serious) with onset 07Oct2021 09:30, outcome ""recovered with sequelae"", described as ""nervous""; MYALGIA (non-serious) with onset 07Oct2021 09:30, outcome ""recovered with sequelae"", described as ""Muscle ache""; PAIN IN EXTREMITY (non-serious) with onset 07Oct2021 09:30, outcome ""recovered with sequelae"", described as ""Arm hurts""; CHILLS (non-serious) with onset 07Oct2021 09:30, outcome ""recovered with sequelae"", described as ""chill on chest up and down"". The events ""felt dizzy as soon as first injection"", ""fast heartbeat"", ""nervous"", ""muscle ache"", ""arm hurts"" and ""chill on chest up and down"" were evaluated at the physician office visit. Relevant laboratory tests and procedures are available in the appropriate section. Therapeutic measures were not taken as a result of dizziness, heart rate increased, nervousness, myalgia, pain in extremity, chills. Additional information: The patient did not receive any other vaccines within 4 weeks prior to the COVID vaccine. Patient receive other medications within 2 weeks of vaccination. Patient had bathed in rubbing alcohol.  No follow-up attempts are possible. No further information is expected.","['Chills', 'Dizziness', 'Heart rate increased', 'Myalgia', 'Nervousness', 'Pain in extremity']",No temporal information found,No temporal information found,,1,True
+1264455,"I THOUGHT I WAS DYING; BUTT AND LEG NUMB; BUTT PAIN; LEG PAIN; SO HOT; WEAKNESS; DANGEROUS FEVER; This spontaneous report received from a patient concerned a female of unspecified age. The patient's weight, height, and medical history were not reported. The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, route of admin not reported, batch number: Unknown) dose, start therapy date were not reported for prophylactic vaccination. Batch/Lot number was not reported and has been requested. No concomitant medications were reported. On an unspecified date, the subject experienced i thought i was dying, butt and leg numb, leg numb, butt pain, leg pain, so hot, weakness, and dangerous fever. The action taken with covid-19 vaccine ad26.cov2.s was not applicable. The outcome of the dangerous fever, so hot, weakness, i thought i was dying, butt numb and leg numb, leg numb, butt pain and leg pain was not reported. This report was non-serious.","['Asthenia', 'Feeling abnormal', 'Feeling hot', 'Hypoaesthesia', 'Musculoskeletal pain', 'Pain in extremity', 'Pyrexia']","""No temporal information found""",No temporal information found,,1,True
+1932712,"Onset of symptoms 11/25/2021 Chills, runny nose, loss of smell, cough, wheezing, shortness of breath, diarrhea and congestion. Tested positive for Covid19 on 11/29/2021","['Anosmia', 'Chills', 'Cough', 'Diarrhoea', 'Dyspnoea', 'Respiratory tract congestion', 'Rhinorrhoea', 'Wheezing']",No temporal information found,No temporal information found,,1,True
+1737091,"painful menstrual cycle. The period came two days early with abnormal headaches, cramps, and back pain.","['Back pain', 'Dysmenorrhoea', 'Headache', 'Menstruation irregular']",No temporal information found,No temporal information found,,1,True
+1925019,"Woke up 2 days later with chest pains, very similar / same as the two previous heart attacks I had. Radiating pain in chest and between shoulders, tight chest, shortness of breath.","['Chest discomfort', 'Chest pain', 'Dyspnoea', 'Pain']","""No temporal information found""",No temporal information found,,1,True
+2736972,"experienced left arm issues around noon-pain went from upper arm to shoulder, then neck, eczema, headache, nausea, headache, left inner forearm 2 purple deep dots","['Eczema', 'Headache', 'Injection site pain', 'Nausea', 'Neck pain', 'Skin discolouration']","[
+  {
+    ""Injection site pain"": [""pain went from upper arm to shoulder""],
+    ""Neck pain"": [""then neck""]
+  },
+  {
+    ""Eczema"": [""eczema""]
+  },
+  {
+    ""Headache"": [""headache""]
+  },
+  {
+    ""Nausea"": [""nausea""]
+  },
+  {
+    ""Skin discolouration"": [""left inner forearm 2 purple deep dots""]
+  }
+]","[
+  {
+    ""Injection site pain"": [
+      ""pain went from upper arm to shoulder""
+    ],
+    ""Neck pain"": [
+      ""then neck""
+    ]
+  },
+  {
+    ""Eczema"": [
+      ""eczema""
+    ]
+  },
+  {
+    ""Headache"": [
+      ""headache""
+    ]
+  },
+  {
+    ""Nausea"": [
+      ""nausea""
+    ]
+  },
+  {
+    ""Skin discolouration"": [
+      ""left inner forearm 2 purple deep dots""
+    ]
+  }
+]",No temporal information found,0,True
+1841543,"At 1256 patient received the vaccine and went to the observation area to sit down. At 1257 patient fell to the floor in the observation area. Patient reported feeling dizzy and lightheaded. Patient was alert and oriented to person, place and time. Patient seemed confused about the situation. Patient appeared pale. Patient denied chest pain, head pain, and back pain. Patient reported pain only in the left arm at the injection site. The arm was assessed and it did not appear to be red or swollen. The patient denied any shortness of breath and denied any difficulty breathing. Patient denied any itching. Patient was kept laying down. At 1259 EMS/911 was called. At 1300 patient's BP 90/52 and HR 94 At 1302 patient's BP 88/62 and HR 88. Patient's legs were elevated. At 1305 patient's BP 88/60 and HR 81. At 1309 patient's BP 98/60 and HR 72. At 1310 the fire department arrived at the scene and assumed care of the patient. At 1316 patient's BP 118/77 and HR 78 while sitting. Patient's BP 122/81 and HR 89 while standing. Patient was transferred to a cot and was put in a sitting position. Patient reported some dizziness. At 1321 BP 92/63, HR 72, and O2 Sat 100%. At 1323 Patient refused offer to call family. Patient chose to call his girlfriend on his own. Patient was advised to go to the emergency room with the paramedics to prevent further worsening of his condition. At 1330 patient's BP 96/64, HR 69, and O2 Sat 99%. At 1332 Paramedics arrived on site and assumed care of the patient. Patient was transported to the nearest emergency room by ambulance.","['Confusional state', 'Dizziness', 'Fall', 'Injection site pain', 'Pallor']",No temporal information found,No temporal information found,,1,True
+1481144,"BEEN IN BED FOR A WEEK; BODY PAIN; CRAMPS; COUGH; ALL TYPES OF DISCOMFORTS; HEADACHE; This spontaneous report received from a patient concerned a patient of unspecified age and sex. The patient's height, and weight were not reported. No past medical history or concurrent conditions were reported. The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, route of admin not reported, batch number: Unknown) dose, start therapy date were not reported for prophylactic vaccination. The batch number was not reported. Per procedure, no follow-up will be requested for this case. No concomitant medications were reported. On an unspecified date, the subject experienced been in bed for a week, body pain, cramps, cough, all types of discomforts, and headache. The action taken with covid-19 vaccine ad26.cov2.s was not applicable. The patient recovered from been in bed for a week, and the outcome of body pain, cramps, headache, cough and all types of discomforts was not reported. This report was non-serious.","['Cough', 'Discomfort', 'Headache', 'Muscle spasms', 'Pain']",No temporal information found,No temporal information found,,1,True
+1080828,"Chills, fever, sore throat, cough, nasal congestion, fatigue, headache - 2/27/21 - 3/3/21","['Chills', 'Cough', 'Fatigue', 'Headache', 'Nasal congestion', 'Oropharyngeal pain', 'Pyrexia']","""No temporal information found""",No temporal information found,,1,True
+1314251,"All over swelling, cough, severe pain in injected arm, headache, extreme fatigue (bedridden for the first day after the administration day). Still fatigued, cough is increasing","['Cough', 'Fatigue', 'Headache', 'Injection site pain', 'Swelling']","""No temporal information found""",No temporal information found,,1,True
+1320294,"Myocarditis; Pleuritic Chest Pain; Difficulty breathing; Myalgia; Headache; Flu-like symptoms; This is a spontaneous report from a contactable physician. A 38-year-old male patient received BNT162B2 (PFIZER-BIONTECH COVID-19 VACCINE, Batch/Lot number was not reported), via an unspecified route of administration on 01May2021 as second dose, single for COVID-19 immunization. Medical history and concomitant medications were not reported. The patient previously received the first dose of BNT162B2, on an unknown date, for COVID-19 immunization. The patient experienced myocarditis on 05May2021, and in May2021 (reported as started 2 and a half days after receiving the second dose) experienced pleuritic chest pain, difficulty breathing, myalgia, headache, and flu-like symptoms. The patient was hospitalized for the events from 05May2021 to an unknown date. The reporter assessed the events as life-threatening. The adverse events required a visit to Emergency Room. The reporter assessed that the patient's events were caused by the vaccine. The outcome of the events was unknown.  No follow-up attempts are possible. Information about batch/lot number cannot be obtained. No further information is expected.; Sender's Comments: Based on the limited information currently available, a possible association of the suspect drug administration with the reported events cannot be excluded, due to a plausible temporal relationship. This case will be reassessed when additional information becomes available. The impact of this report on the benefit/risk profile of the Pfizer product is evaluated as part of Pfizer procedures for safety evaluation, including the review and analysis of aggregate data for adverse events. Any safety concern identified as part of this review, as well as any appropriate action in response, will be promptly notified to Regulatory Authorities, Ethics Committees and Investigators, as appropriate.","['Dyspnoea', 'Headache', 'Influenza like illness', 'Myalgia', 'Myocarditis', 'Pleuritic pain']",No temporal information found,No temporal information found,,1,True
+2717915,"COVID-19; Steven Johnson syndrome; Bells Palsy; Shingles; Unsightly blisters all over her body; This spontaneous case was reported by a consumer and describes the occurrence of COVID-19 (COVID-19), STEVENS-JOHNSON SYNDROME (Steven Johnson syndrome) and BELL'S PALSY (Bells Palsy) in a female patient of an unknown age who received mRNA-1273 (Moderna COVID-19 Vaccine) for COVID-19 prophylaxis. The occurrence of additional non-serious events is detailed below.     No Medical History information was reported.    On an unknown date, the patient received dose of mRNA-1273 (Moderna COVID-19 Vaccine) (unknown route) 1 dosage form. On an unknown date, the patient experienced COVID-19 (COVID-19) (seriousness criterion hospitalization), STEVENS-JOHNSON SYNDROME (Steven Johnson syndrome) (seriousness criterion medically significant), BELL'S PALSY (Bells Palsy) (seriousness criterion medically significant), HERPES ZOSTER (Shingles) and BLISTER (Unsightly blisters all over her body). The patient was treated with CEFALEXIN at an unspecified dose and frequency. At the time of the report, COVID-19 (COVID-19), STEVENS-JOHNSON SYNDROME (Steven Johnson syndrome), BELL'S PALSY (Bells Palsy), HERPES ZOSTER (Shingles) and BLISTER (Unsightly blisters all over her body) had not resolved.        The action taken with mRNA-1273 (Moderna COVID-19 Vaccine) (Unknown) was unknown.   For mRNA-1273 (Moderna COVID-19 Vaccine) (Unknown), the reporter did not provide any causality assessments.   No concomitant medication was reported.  The patient became deathly sick in ICU.  The Moderna flu shot scarred her skin for life.  Company Comment: This is a Spontaneous case reported by a consumer, concerning a female patient of unknown age, with no medical history reported, who experienced the unexpected and serious (due to medically significant) AESI of Stevens-Johnson syndrome, the expected and serious (due to medically significant) AESI of BellÂ´s palsy, and the unexpected and serious (due to hospitalization) event of COVID-19, which occurred after an unspecified dose of mRNA-1273 vaccine. Since no vaccination dates were provided, temporal association and latency cannot be properly assessed. As reported, the patient experienced Bell's Palsy and shingles with every shot. She was also deathly sick in ICU with COVID, and treated with cephalexin. She had Steven Johnson syndrome, and unsightly blisters all over her body, every time she was stressed out.  No information disclosed about diagnostic tests performed. At the time of the report, the events had not resolved. The benefit-risk relationship of mRNA-1273 vaccine is not affected by this report.   This case was linked to US-MODERNATX, INC.-MOD-2023-750558, US-MODERNATX, INC.-MOD-2023-750562 (Linked Report).; Sender's Comments:  US-MODERNATX, INC.-MOD-2023-750558:Same Reporter Different Patient US-MODERNATX, INC.-MOD-2023-750562:Same Reporter Patient","[""Bell's palsy"", 'Blister', 'Herpes zoster', 'Stevens-Johnson syndrome']",No temporal information found,No temporal information found,,1,True
+2051064,"Daily splotchy rash and/or hives with dermatographism since 11/13/2021, continues to date of this report. The hives appear anywhere on my body, itch badly, cause lines to appear on my skin when itched, and disappear within an hour or two.  Sometimes I get red patches and streaks on my skin too, with or without the hives. The red splotchy patches feel hot but aren?t itchy.","['Histamine level', 'Laboratory test abnormal', 'Mechanical urticaria', 'Pruritus', 'Rash macular', 'Skin warm', 'Thyroglobulin', 'Urticaria']",No temporal information found,No temporal information found,,1,True
+1912272,"This is a spontaneous report from a non-contactable consumer, the patient. A 39-year-old female patient received the first dose of BNT162b2 (MANUFACTURER UNKNOWN COVID-19 Vaccine; Lot Number: UNKNOWN) via an unspecified route of administration on 30Oct2021 at 12:00 (at the age of 39-years-old) and the second dose of BNT162b2 (PFIZER-BIONTECH COVID-19 mRNA VACCINE; Lot Number: UNKNOWN) via an unspecified route of administration on 19Nov2021 at 12:00 (at the age of 39-years-old) as a single dose for COVID-19 immunisation. Medical history included kidney stones- chronic kidney infection in prior years, COVID-19 and known allergies to multiple antibiotics. Prior to vaccination, the patient was diagnosed with COVID-19. On an unknown date in Jul2021, the patient underwent SARS-CoV-2 test via nasal swab and the result was negative. On an unknown date in Aug2021, the patient underwent SARS-CoV-2 test via blood test (as reported) and the result was negative. The patient did not receive any concomitant medications within 2 weeks of vaccination. The patient did not receive any other vaccines within four weeks prior to the COVID vaccine. The patient reported that with both doses she had the same side effects and lasted about the same. On an unknown date in Oct2021, the patient experienced extreme hair loss, fevers, chills, bones/body aches, night sweats (profuse, her bed sheets had to be changed), headaches, nausea, loss of appetite, light cough and tiredness. She was very regular and knew because she kept track on an app; she usually have a two and half day period very light. She had been like this the whole life. The shot made her period early by a week in each instance and her period was a lot heavier and with pain after the first shot and lasted for 7 days. After the second shot, she got period early by a week (technically the shot triggered her period and it happened the next day after the shot) which was heavier and painful which was not common for her. The events resulted in doctor or other healthcare professional office/clinic visit (reported as doctor's virtual call). Therapeutic measures were taken as a result of the events and included treatment with over-the-counter medicines (OTCM) and full bed rest. She was on day 3 of second dose and finally started to feel better.  Since the vaccination, the patient had been tested for COVID-19. On an unknown date in Oct2021, the patient underwent SARS-CoV-2 test via nasal swab and the result was negative. The clinical outcome of the events extreme hair loss, fevers, chills, bones/body aches, night sweats (profuse, my bed sheets have to be changed), headaches, nausea, loss of appetite, light cough, tiredness, the shot made her period early by a week in each instance and her period was a lot heavier and with pain after the first shot and lasted for 7 days, after the second shot, she got period early by a week (technically the shot triggered her period and it happened the next day after the shot) which was heavier and painful which was not common for her were resolving at the time of this report.No follow-up attempts are possible; information about lot/batch number cannot be obtained. No further information is expected.","['Alopecia', 'Bone pain', 'Chills', 'Cough', 'Decreased appetite', 'Dysmenorrhoea', 'Fatigue', 'Headache', 'Heavy menstrual bleeding', 'Menstruation irregular', 'Nausea', 'Night sweats', 'Pain', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+1138798,"Both arms, and only the arms, became swollen, red with rash, itchy and painful. Other more common side effects included fatigue, chills, nausea, severe headache, which occurred in the evening of the day vaccine was administered","['Chills', 'Fatigue', 'Headache', 'Nausea', 'Pain in extremity', 'Peripheral swelling', 'Pruritus', 'Rash erythematous']",No temporal information found,No temporal information found,,1,True
+1360987,"Systemic: Dizziness / Lightheadness-Medium, Systemic: Nausea-Medium, Additional Details: Pt's blood pressure at time of incident was 137/99. Pt also looked paler than usual. Pt is recovering with no worsening symptoms 10 minutes later under further observation","['Dizziness', 'Hypertension', 'Nausea', 'Pallor']","""No temporal information found""",No temporal information found,,1,True
+2176978,"Third dose: eyes feel like they're going to die from all the pins and needles; Third dose: feeling like millions of pins and needles coming out of her body- her eyes, nose, tongue, she can feel it in her chest and in her colon; Third dose: feeling like millions of pins and needles coming out of her body- her eyes, nose, tongue, she can feel it in her chest and in her colon; Third Dose: 3 nights where she didn't sleep; This is a spontaneous report received from a contactable reporter(s) (Consumer or other non HCP) for a Pfizer sponsored program. The reporter is the patient. Other Case identifier(s): US-PFIZER INC-202200348380 (pfizer).  A female patient received bnt162b2 (BNT162B2), administration date 23Sep2021 (Batch/Lot number: unknown) as dose 3 (booster), single for covid-19 immunisation. The patient's relevant medical history and concomitant medications were not reported. Vaccination history included: Bnt162b2 (Dose: 1), for Covid-19 immunization, reaction(s): ""no reaction""; Bnt162b2 (Dose: 2), for Covid-19 immunization, reaction(s): ""Second Dose: on the very end of it she had a slight reaction of like pins and needles but then it went away and she got rid of that"". The following information was reported: EYE PARAESTHESIA (medically significant) with onset 25Sep2021, outcome ""unknown"", described as ""Third dose: eyes feel like they're going to die from all the pins and needles""; PARAESTHESIA ORAL (medically significant), PARAESTHESIA (medically significant) all with onset 25Sep2021, outcome ""unknown"" and all described as ""Third dose: feeling like millions of pins and needles coming out of her body- her eyes, nose, tongue, she can feel it in her chest and in her colon""; INSOMNIA (non-serious) with onset 25Sep2021, outcome ""unknown"", described as ""Third Dose: 3 nights where she didn't sleep"". After 2 days the caller started to feel like there are a million pins and needles internal, in her stomach and her body and she was in terrible shape. Usually if the patient has a reaction to something she gets a steroid injection. The patient generally doesn't like to take the steroid injections. Therapeutic measures were taken with steroid injection as a result of eye paraesthesia, paraesthesia oral, paraesthesia, insomnia.  Clinical information: The patient got a steroid injection yesterday against her doctor's better judgement. The doctor didn't want to give it to her because it would work so hard against something. But the patient has got to have some relief because she had 3 nights where she didn't sleep. The patient lays down and it was like a million pins and needles coming out her head, it was so painful and powerful she would rub her head to make sure the pins weren't actually there and its horrible. This has happened really severe.   The lot number for bnt162b2 was not provided and will be requested during follow up.","['Eye paraesthesia', 'Insomnia', 'Paraesthesia', 'Paraesthesia oral']","""No temporal information found""",No temporal information found,,1,True
+2028486,"-he came to the hospital with a chief complaint of worsening cough and altered mental status has reported by than memory care unit staff.  History not obtained from the patient due to advanced dementia.  Daughter present at the bedside provided the history.  She reported that apart from altered mental status agitation and worsening cough with yellow color expectoration the patient does not have any other symptoms like fevers, chills, abdominal pain, nausea, vomiting, chest pain, shortness of breath, palpitations, burning or painful urination, diarrhea.     01/03/2022 tested positive","['Cough', 'Mental status changes', 'Productive cough', 'Sputum discoloured']",No temporal information found,No temporal information found,,1,True
+1165743,"Confusion, anxiety,  4 to 5 days.  Went back in time with things that happened years ago,  brain fog. Abdominal gut pain , diarrhea.  Exhaustion lasting 2 weeks.","['Abdominal pain', 'Anxiety', 'Confusional state', 'Diarrhoea', 'Fatigue', 'Feeling abnormal', 'Gastrointestinal pain']",No temporal information found,No temporal information found,,1,True
+1304159,"Within 8hrs of vaccination, extreme chills, joint aches, dizzyness migraine headache, and fever lasting throughout the night into early morning of 5/09/2021, fever lasted into evening of 05/09/2021.  As of 05/10/2021 still have periodic migraine headaches and dizzy spells.","['Arthralgia', 'Chills', 'Dizziness', 'Headache', 'Migraine', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+1149282,"Fever increasing from 97 to 102 degrees, body aches, chills, nausea, diarrhea. Went from feeling totally fine to having intense side effects in a span of 20 minutes roughly 8 hours after receiving the vaccine. Side effects were intense over 12 hour span.","['Chills', 'Diarrhoea', 'Nausea', 'Pain', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+2024770,"Patient described waking up at 3am the morning after her injection hurting all over, fever, chills and headache.  Patient remained in this state all day after injection. Patient felt better two days after injection.","['Chills', 'Headache', 'Pain', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+1276495,"FIBROMYALGIA EXACERBATION; SORE GLANDS AT JAW LINE; FEELING LIKE CENTRAL NERVOUS SYSTEM ON FIRE; SPINAL CORD PAIN; VERTIGO; SORE ARM; NAUSEOUS; This spontaneous report received from a patient concerned a 61 year old female. The patient's height, and weight were not reported. The patient's concurrent conditions included fibromyalgia, atrial fibrillation, and anxiety. The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, route of admin not reported, batch number: (6 or 0)43A(2or Z)(Ior1)A) dose was not reported, administered on 05-APR-2021 for prophylactic vaccination. No concomitant medications were reported. On APR-2021, the subject experienced fibromyalgia exacerbation. On APR-2021, the subject experienced sore glands at jaw line. On APR-2021, the subject experienced feeling like central nervous system on fire. On APR-2021, the subject experienced spinal cord pain. On APR-2021, the subject experienced vertigo. On APR-2021, the subject experienced sore arm. On APR-2021, the subject experienced nauseous. Treatment medications (dates unspecified) included: ibuprofen. The action taken with covid-19 vaccine ad26.cov2.s was not applicable. The outcome of the vertigo, sore arm, sore glands at jaw line, feeling like central nervous system on fire, spinal cord pain, fibromyalgia exacerbation and nauseous was not reported. This report was non-serious. The Product Complaint Number was 90000177550 The suspected product quality complaint has been confirmed to be confirmed no PQC was identified within the reported complaint reported. complaint is approved for void. based on the PQC evaluation/investigation performed.","['Burning sensation', 'Fibromyalgia', 'Lymph node pain', 'Nausea', 'Pain in extremity', 'Spinal pain', 'Vertigo']",No temporal information found,No temporal information found,,1,True
+1454492,"About a month after 2nd dose i started noticing some strange sensations through my entire body, by 4/20/2021 it was extremely bad. I have a tingling/pins and needle sensation in my hands, arms, chest, shoulders, neck, head, legs, feet and stomach.  I cannot grip things and often drop objects, I often cant open doors, my hands also jerk and twitch, I have to use both hands to do any task. I am no longer able to write neatly and have a hard time typing, using phones, etc","['Dyskinesia', 'Grip strength decreased', 'Muscle twitching', 'Muscular weakness', 'Paraesthesia', 'Sensory disturbance']","```json
+[
+  {
+    ""Sensory disturbance"": [""strange sensations through my entire body""],
+    ""Dyskinesia"": [""none""]
+  },
+  {
+    ""Paraesthesia"": [""tingling/pins and needle sensation in my hands, arms, chest, shoulders, neck, head, legs, feet and stomach""],
+    ""Grip strength decreased"": [""cannot grip things and often drop objects""],
+    ""Muscular weakness"": [""no longer able to write neatly and have a hard time typing, using phones, etc""],
+    ""Muscle twitching"": [""my hands also jerk and twitch""]
+  }
+]
+```","[
+  {
+    ""Sensory disturbance"": [
+      ""strange sensations through my entire body""
+    ]
+  },
+  {
+    ""Paraesthesia"": [
+      ""tingling/pins and needle sensation in my hands, arms, chest, shoulders, neck, head, legs, feet and stomach""
+    ],
+    ""Grip strength decreased"": [
+      ""cannot grip things and often drop objects""
+    ],
+    ""Muscular weakness"": [
+      ""no longer able to write neatly and have a hard time typing, using phones, etc""
+    ],
+    ""Muscle twitching"": [
+      ""my hands also jerk and twitch""
+    ]
+  },
+  {
+    ""Dyskinesia"": [
+      ""none""
+    ]
+  }
+]",No temporal information found,0,True
+1945077,"SEVERE ALLERGIC REACTION WITH SEVERE BREATHING DIFFICULTY, THROAT CLOSED FOR ALMOST A MINUTE, COULD NOT BREATH","['Dyspnoea', 'Hypersensitivity', 'Respiratory arrest', 'Throat tightness']",No temporal information found,No temporal information found,,1,True
+1848528,"Severe joint pain in fingers and toes; Unable to use hands at times due to severity of pain. Pain was more severe than the time I broke my finger; Unable to use hands at times due to severity of pain. Pain was more severe than the time I broke my finger; Menstrual bleeding that lasted three months; This is a spontaneous report from a contactable consumer (patient).   A non-pregnant 36-year-old female patient received bnt162b2 (PFIZER-BIOTECH COVID-19 VACCINE, solution for injection, Batch/Lot Number: Ew0196) via an unspecified route of administration, administered in arm left on 07Jul2021 at 18:00 (at the age of 36 years old) as dose 2, single for COVID-19 immunization. Medical history included chronic fatigue syndrome and post-traumatic stress disorder. Concomitant medications included baclofen and clobazam. No known allergies. The patient previously received BNT162B2 (Lot number: Ew0191) administered on arm left on 18Jun2021 (at the age of 36 years old) as dose 1, single for COVID-19 immunization. On 30Jul2021, the patient experienced severe joint pain in fingers and toes, unable to use hands at times due to severity of pain and that pain was more severe than the time patient broke her finger and menstrual bleeding that lasted three months. The patient underwent lab tests and procedures which included nasal swab: negative on an unspecified date. Patient had no other vaccine in four weeks. Patient had no COVID prior vaccination and was COVID test post vaccination. The events resulted in a doctor or other healthcare professional office/clinic visit. The outcome of the events was not recovered with no treatment received.","['Arthralgia', 'Heavy menstrual bleeding', 'Pain', 'Pain in extremity']",No temporal information found,No temporal information found,,1,True
+1142371,"Hands became itchy and red with a small amount of blistering hives on my both wrists.   Symptom better starting Sunday, March 28. Chapped lips and slight blistering on inside of mouth. Symptom ceased on March 26. Hyper/enhanced sense of smell and taste.  Still continues through today, Sunday March 28.","['Chapped lips', 'Dysgeusia', 'Erythema', 'Oral mucosal blistering', 'Parosmia', 'Pruritus', 'Rash', 'Rash vesicular', 'Urticaria']","""No temporal information found""",No temporal information found,,1,True
+1258820,"Syncopal episode post vaccine with report of ""jaw pressure"" , chest heaviness and throat irritation. Treated with Benadryl 25 mg PO and transported via EMS to emergency department.","['Chest discomfort', 'Jaw disorder', 'Syncope', 'Throat irritation']",No temporal information found,No temporal information found,,1,True
+2031201,"Patient presented to emergency department on 11/22/2021 with INR of 9, low blood pressure, generalized weakness, and fatigue. He was found to be COVID-19 positive during screening for admission. He remained asymptomatic for COVID-19 infection during admission and required no management. Patient was discharged home on 11/26/2021.","['Asthenia', 'Fatigue', 'Hypotension', 'International normalised ratio increased']",No temporal information found,No temporal information found,,1,True
+1474169,"Fever 99.8 for 24 hours; head ache approx 9 hours; joint pain mostly neck, shoulders, hips continues to persist; muscular weakness which persists as well localized primarily to upper extremities; had sharp pains in mediastinum left side, intermittent for several hours the day after the injection, difficult to tell if the pains were heart or lung related.  These pains were the most scary part.;   General malaise for about 24 hours.","['Arthralgia', 'Chest pain', 'Headache', 'Malaise', 'Muscular weakness', 'Neck pain', 'Pyrexia']","[
+  {
+    ""Arthralgia"": [""joint pain mostly neck, shoulders, hips continues to persist""],
+    ""Malaise"": [""General malaise for about 24 hours""],
+    ""Muscular weakness"": [""muscular weakness which persists as well localized primarily to upper extremities""],
+    ""Neck pain"": [""joint pain mostly neck, shoulders, hips continues to persist""],
+    ""Pyrexia"": [""Fever 99.8 for 24 hours""]
+  },
+  {
+    ""Headache"": [""head ache approx 9 hours""]
+  },
+  {
+    ""Chest pain"": [""sharp pains in mediastinum left side, intermittent for several hours the day after the injection""]
+  }
+]","[
+  {
+    ""Arthralgia"": [
+      ""joint pain mostly neck, shoulders, hips continues to persist""
+    ],
+    ""Malaise"": [
+      ""General malaise for about 24 hours""
+    ],
+    ""Muscular weakness"": [
+      ""muscular weakness which persists as well localized primarily to upper extremities""
+    ],
+    ""Neck pain"": [
+      ""joint pain mostly neck, shoulders, hips continues to persist""
+    ],
+    ""Pyrexia"": [
+      ""Fever 99.8 for 24 hours""
+    ]
+  },
+  {
+    ""Headache"": [
+      ""head ache approx 9 hours""
+    ]
+  },
+  {
+    ""Chest pain"": [
+      ""sharp pains in mediastinum left side, intermittent for several hours the day after the injection""
+    ]
+  }
+]",No temporal information found,0,True
+1989831,"A little over a month after I received the J&J Covid shot I have come down with what doctors think is early Sjogren's syndrome. I have extremely dry eyes, eye pain, moderate dry month, and an increase in migraines to a chronic level since the shot. Standard blood work has not determined a diagnosis, however, ""early Sjogren's"" bloodwork has shown a probable diagnosis along with symptoms that do not ever go away. The pain and dryness to my eyes and the chronic nature of migraines and headaches have changed my life for the worse and made it difficult for me to do things. I also can no longer wear contacts.","['Antibody test positive', 'Condition aggravated', 'Contact lens intolerance', 'Dry eye', 'Dry mouth', 'Eye pain', 'Headache', 'Migraine', ""Sjogren's syndrome""]",No temporal information found,No temporal information found,,1,True
+1057832,"soreness at injection site, migraine, second day on menstrual cycle - heavy bleeding, extra hungry, feeling tired, itchiness, hives around neck area","['Appetite disorder', 'Fatigue', 'Heavy menstrual bleeding', 'Injection site pain', 'Migraine', 'Pruritus', 'Urticaria']",No temporal information found,No temporal information found,,1,True
+1395644,"Tachycardia ""scratchy throat, fuzzy feeling tongue neck beginning to swell"" Narrative:  monitored for 4 hours and discharged to home with epi pen,","['Paraesthesia oral', 'Swelling', 'Tachycardia', 'Throat irritation']",No temporal information found,No temporal information found,,1,True
+1201153,having bad headaches and body aches cannot fully urinate and always feel like he needs to urinate,"['Headache', 'Micturition urgency', 'Pain', 'Urinary retention']",No temporal information found,No temporal information found,,1,True
+1763961,"BILATERAL HERNIA; SORE AFTER COVID VACCINE; MINOR PLAQUE PSORIASIS FLARE UP; COUPLE OF SPOTS WITH TINY BUMPS; VACCINATION SITE PAIN; This spontaneous report received from a patient concerned a 50 year old male. The patient's height, and weight were not reported. The patient's concurrent conditions included: moderate to severe chronic plaque psoriasis. The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, intramuscular, batch number was not reported) dose was not reported, administered on 30-AUG-2021 for prophylactic vaccination. The batch number was not reported. Per procedure, no follow up will be requested for this case. Non-company suspect drugs included: adalimumab (solution for injection in pre-filled pen, subcutaneous, batch number was not reported) dose, frequency, and therapy dates were not reported for moderate to severe chronic plaque psoriasis. No concomitant medications were reported. On an unspecified date, the patient experienced bilateral hernia, sore after covid vaccine, minor plaque psoriasis flare up, couple of spots with tiny bumps, and vaccination site pain. The action taken with covid-19 vaccine ad26.cov2.s was not applicable; and action taken with adalimumab was not reported. The patient recovered from sore after covid vaccine, and vaccination site pain, and had not recovered from bilateral hernia, minor plaque psoriasis flare up, and couple of spots with tiny bumps. This report was non-serious.","['Hernia', 'Pain', 'Psoriasis', 'Rash papular', 'Vaccination site pain']",No temporal information found,No temporal information found,,1,True
+1198276,"A few days after getting the vaccine, I was dizzy, light-headed, nauseated, short of breath, and had bad chest pains. It has been three weeks and my symptoms have not gotten any better.","['Chest pain', 'Dizziness', 'Dyspnoea', 'Nausea']",No temporal information found,No temporal information found,,1,True
+921302,"Headache; Hypertension; Face flushed; Extremely tired; Slow Motion; Slurred Speech; This is a spontaneous report from a contactable healthcare professional. A 38-year-old female patient started to receive BNT162B2 (lot number: EJ1685), intramuscularly on 29Dec2020 08:00 at left arm at single dose for COVID-19 immunization. Medical history included hypertension. Concomitant medications were not reported. Patient previously took metronidazole (FLAGYL) and experienced allergy. Patient experienced headache, hypertension, face flushed, extremely tired, slow motion, and slurred speech on 29Dec2020 09:30. Treatment was not received for these events. Outcome of the events was resolving.","['Bradykinesia', 'Dysarthria', 'Fatigue', 'Flushing', 'Headache', 'Hypertension']",No temporal information found,No temporal information found,,1,True
+1776543,"Breakthrough Covid + 65-year-old female who was brought to the emergency room by her daughter for chief complain of change in mental status. Patient continues to describes symptoms as cough and shortness of breath, and with a well known history of chronic obstructive pulmonary disease and cardiac conditions patient was referred approximately 2 days ago for IV concentrated antibodies treatment.","['Cough', 'Dyspnoea', 'Mental status changes', 'Vaccine breakthrough infection']",No temporal information found,No temporal information found,,1,True
+1153193,"Nose bleed; Joint pain; Headache; Tired; This is a spontaneous report from a contactable Other HCP. A 49-year-old female (non-pregnancy) female patient receive second dose of bnt162b2 (BNT162B2, Solution for injection), via unknown route of administration on Left arm on unknown date at single dose for covid-19 immunisation. The patient's medical history includes Asthmatic, and known allergies includes shellfish, and Penicillin, and Historical Vaccine includes first dose of BNT162B2 (Lot number: El1283) on 05Feb2021 08.00 AM on left arm. Concomitant medications were not reported. It was reported that patient experienced Nosebleed, headache, tired, joint pain on 13Feb2021 04.00 AM and did not received any treatment. The patient did not receive any other vaccines within 4 weeks prior to the COVID vaccine. Prior to vaccination, the patient was not diagnosed with COVID-19; Since the vaccination, the patient not been tested for COVID-19. The outcome of events was ""Recovering"".","['Arthralgia', 'Epistaxis', 'Fatigue', 'Headache']",No temporal information found,No temporal information found,,1,True
+1747548,"Rash on neck,metallic taste,ears ringing,severe chest and abdominal pain,leg and back pain severe headache,fatigue and joint pain. Hospitalized 2 days, left eye blurred vision","['Abdominal pain', 'Arthralgia', 'Back pain', 'Chest pain', 'Dysgeusia', 'Fatigue', 'Headache', 'Pain in extremity', 'Rash', 'Tinnitus', 'Vision blurred']",No temporal information found,No temporal information found,,1,True
+2798931,"Tinnitus that started a few hours after the vaccine and hasn't stopped yet! Other side effects are mild and have resolved (fever, arm pain, fatigue). Tinnitus hasn't happened with previous vaccinations. This is by far the worse side effect and it isn't going away yet.","['Fatigue', 'Pain in extremity', 'Pyrexia', 'Tinnitus']",No temporal information found,No temporal information found,,1,True
+1322595,"STOMACH CRAMPS; SEVERE DIARRHEA; BODY PAIN ALL OVER; PAIN MORE IN THE LOWER BACK; SEVERE HEADACHES; This spontaneous report received from a patient concerned a female of unspecified age. The patient's weight, height, and medical history were not reported. The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, route of admin not reported, batch number: 1812072, and batch number: 1812072 expiry: UNKNOWN) dose was not reported, administered on 12-MAR-2021 for prophylactic vaccination. No concomitant medications were reported. On 13-MAR-2021, the subject experienced stomach cramps. On 13-MAR-2021, the subject experienced severe diarrhea. On 13-MAR-2021, the subject experienced body pain all over. On 13-MAR-2021, the subject experienced severe headaches. On 13-MAR-2021, the subject experienced pain more in the lower back. The action taken with covid-19 vaccine ad26.cov2.s was not applicable. The patient had not recovered from stomach cramps, severe headaches, severe diarrhea, body pain all over, and pain more in the lower back.","['Abdominal pain upper', 'Back pain', 'Diarrhoea', 'Headache', 'Pain']","""No temporal information found""",No temporal information found,,1,True
+2010591,"12/31/2021: Event occurred after 2nd vaccine.   75-year-old female past medical history COPD not on home O2, hypertension, diabetes, CAD presenting for shortness of breath.  Patient states for the past 3 days she has developed some rhinorrhea mild cough and some body aches.  She states that she has had shortness of breath that is progressively worsening.  States that she does not feel as though she has had fevers.  Respiratory: +shortness of breath, +cough. GI: No abdominal pain, no nausea, no vomiting, no diarrhea.","['Cough', 'Dyspnoea', 'Pain', 'Rhinorrhoea']",No temporal information found,No temporal information found,,1,True
+1970660,"booster shot; Fever; Diarrhea; Vomiting; Shaking; Shivering/Chills; Nausea; Still sick; blood pressure won't go down; heart rate won't go down; This is a spontaneous report received from contactable reporter(s) (Consumer or other non HCP). The reporter is the patient.  A 67 year-old female patient received bnt162b2 (BNT162B2), administered in arm left, administration date 26Nov2021 13:00 (Lot number: PF2584) at the age of 67 years as dose 3 (booster), single for covid-19 immunisation. Relevant medical history included: ""Rheumatoid arthritis"" (unspecified if ongoing), notes: Additional Information for Other Conditions: immunosuppressed due to this condition.; ""History of COVID"", start date: Dec2020 (not ongoing), notes: Verbatim: History of COVID; ""Bladder problem"" (unspecified if ongoing), notes: Verbatim: Bladder problem; ""Blood pressure"" (unspecified if ongoing); ""Restless leg syndrome"" (unspecified if ongoing); ""back injury"" (unspecified if ongoing); ""bone deterioration"" (unspecified if ongoing); ""nausea"" (unspecified if ongoing). Concomitant medication(s) included: LOSARTAN POTASSIUM taken for blood pressure measurement; AMLODIPINE BESILATE taken for blood pressure measurement; CARVEDILOL taken for blood pressure measurement; CLONIDINE taken for blood pressure measurement; ROPINIROLE taken for restless legs syndrome; LEVOTHYROXINE taken for hypothyroidism; CYCLOBENZAPRINE; PHENYTOIN SODIUM; LEFLUNOMIDE taken for rheumatoid arthritis; CLONAZEPAM (ongoing); MORPHINE taken for rheumatoid arthritis, back injury, osteoporosis (ongoing); TEMAZEPAM (ongoing); ONDANSETRON taken for nausea (ongoing). Vaccination history included: Bnt162b2 (Dose Number:01, Lot: EN6208, Expiry: 30Jun2021, Administering facility:), administration date: 15Mar2021, when the patient was 67 years old, for Covid-19 Immunization; Bnt162b2 (Dose Number:02, Lot: ER8734, Expiry: 31Jul2021, Administering facility:), administration date: 06Apr2021, when the patient was 67 years old, for Covid-19 Immunization, reaction(s): ""She was diagnosed with COVID on 07Apr2021, the day after she was administered her second dose of Pfizer Covid-19 Vaccine"", ""blood pressure that won't go down"", ""feeling tired"", ""she just does not seem to have any energy"", ""pulse rate still won't go down"". The following information was reported: IMMUNISATION (non-serious) with onset 26Nov2021 13:00, outcome ""unknown"", described as ""booster shot""; PYREXIA (non-serious) with onset 26Nov2021, outcome ""recovering"", described as ""Fever""; DIARRHOEA (non-serious) with onset 26Nov2021, outcome ""unknown"", described as ""Diarrhea""; VOMITING (non-serious) with onset 26Nov2021, outcome ""unknown"", described as ""Vomiting""; TREMOR (non-serious) with onset 26Nov2021, outcome ""unknown"", described as ""Shaking""; CHILLS (non-serious) with onset 26Nov2021, outcome ""unknown"", described as ""Shivering/Chills""; NAUSEA (non-serious) with onset 26Nov2021, outcome ""unknown"", described as ""Nausea""; ILLNESS (non-serious) with onset 26Nov2021, outcome ""not recovered"", described as ""Still sick""; HYPERTENSION (non-serious) with onset Nov2021, outcome ""not recovered"", described as ""blood pressure won't go down""; HEART RATE INCREASED (non-serious) with onset Nov2021, outcome ""not recovered"", described as ""heart rate won't go down"". Relevant laboratory tests and procedures are available in the appropriate section. No follow-up attempts are possible. No further information is expected.","['Chills', 'Diarrhoea', 'Heart rate increased', 'Hypertension', 'Nausea', 'Pyrexia', 'Tremor', 'Vomiting']",No temporal information found,No temporal information found,,1,True
+1997406,"Experienced tenderness in the underarm lymph nodes. Severe pain in left wrist and left hand swelled and had inability to open/close my hand without intense pain and discomfort. After about four days from the onset of the reaction the swelling subsided in my hand and the joint pain in my fingers went away. Still experience discomfort in my left wrist with certain movements. No prior injuries to my left arm, wrist, hand or fingers.","['Arthralgia', 'Discomfort', 'Lymph node pain', 'Pain', 'Pain in extremity', 'Peripheral swelling']","[  
+  {  
+    ""Lymph node pain"": [""tenderness in the underarm lymph nodes""]  
+  },  
+  {  
+    ""Pain in extremity"": [""Severe pain in left wrist""],  
+    ""Peripheral swelling"": [""left hand swelled""],  
+    ""Arthralgia"": [""joint pain in my fingers""],  
+    ""Discomfort"": [""intense pain and discomfort""],  
+    ""Pain"": [""intense pain""]  
+  }  
+]","[
+  {
+    ""Lymph node pain"": [
+      ""tenderness in the underarm lymph nodes""
+    ]
+  },
+  {
+    ""Pain in extremity"": [
+      ""Severe pain in left wrist""
+    ],
+    ""Peripheral swelling"": [
+      ""left hand swelled""
+    ],
+    ""Arthralgia"": [
+      ""joint pain in my fingers""
+    ],
+    ""Discomfort"": [
+      ""intense pain and discomfort""
+    ],
+    ""Pain"": [
+      ""intense pain""
+    ]
+  }
+]",No temporal information found,0,True
+1156999,"PATIENT STATES APPROXIMATELY 2 HOURS AFTER RECEIVING VACCINE SHE EXPERIENCED: BODY ACHES, HEADACHE, ARM PAIN, FACE FLUSHING, LIGHT HEADEDNESS, ELEVATED HEART RATE, WEAKNESS/FATIGUE, JOINT PAIN, LOW BACK PAIN, NEUROPATHY FLARE UP. DID NOT HAVE FEVER OR VOMITING. SHE DID NOT SEEK MEDICAL TREATMENT. TOOK 1 DOSE OF HYDROCODONE AT 7 PM AND 1 DOSE OF ASPIRIN AT 9 PM. PATIENT DOES NOT WANT TO TAKE THE SECOND DOSE OF THE VACCINE SERIES.","['Arthralgia', 'Asthenia', 'Back pain', 'Dizziness', 'Fatigue', 'Flushing', 'Headache', 'Heart rate increased', 'Neuropathy peripheral', 'Pain', 'Pain in extremity']",No temporal information found,No temporal information found,,1,True
+921149,"Received vaccine on 1/4/21 at 12:50.  On 1/5/21 at 3:00 called nurse line to report fever of 101.8, chills, cough, dizzy with standing.","['Chills', 'Cough', 'Dizziness', 'Pyrexia']","""No temporal information found""",No temporal information found,,1,True
+2089798,"This is a spontaneous report received from a contactable reporter(s) (Consumer or other non HCP). The reporter is the patient. A 12 year-old male patient received bnt162b2 (BNT162B2), administered in arm right, administration date 28Aug2021 11:30 (Lot number: 5234) at the age of 12 years as dose 2, single for Covid-19 immunisation. Relevant medical history included: ""Known allergies: Penicillin"" (unspecified if ongoing). There were no concomitant medications. Vaccination history included: Bnt162b2 (Product=COVID 19, lot number=5234, lot unknown=False, administration date=04Aug2021, administration time=08:30 AM, dose number=1, vaccine location=Right arm), administration date: 04Aug2021, when the patient was 12 years old, for Covid-19 Immunisation. The following information was reported: PAIN (non-serious) with onset 28Aug2021, outcome ""recovering"", described as ""Body aches""; CHILLS (non-serious) with onset 28Aug2021, outcome ""recovering"", described as ""chills""; PYREXIA (non-serious) with onset 28Aug2021, outcome ""recovering"", described as ""fever""; PAIN IN EXTREMITY (non-serious) with onset 28Aug2021, outcome ""recovering"", described as ""sore arm"". Therapeutic measures were not taken as a result of pain, chills, pyrexia, pain in extremity. Additional information: The patient did not have Covid prior vaccination. The patient did not test for Covid tested post vaccination. The patient did not have other medical history. The patient did not receive, other vaccine in four weeks. The patient did not receive, other medications in two weeks. No follow-up attempts are possible. No further information is expected.","['Chills', 'Pain', 'Pain in extremity', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+1925934,"Patient contracted COVID after being fully vaccinated.  No booster fever, fatigue, anorexia, abdominal pain.","['Abdominal pain', 'Blood magnesium', 'Decreased appetite', 'Fatigue', 'Pyrexia', 'Urine osmolarity']",No temporal information found,No temporal information found,,1,True
+1122371,"Sat after receiving vaccine, I've been having headaches daily and pain in my left arm. It hurts to lift weight bearing things. The pain is in my forearm and bicep deep in the muscle. Excruciating pain when gripping and lifting things. Weakness in the left arm.","['Headache', 'Muscular weakness', 'Myalgia', 'Pain', 'Pain in extremity']",No temporal information found,No temporal information found,,1,True
+2010179,Had a problem in her left knee that she stated she never had before. It was like a painful tear and she couldn't walk. Her right foot also became very painful.  Went to see an Orthopedic  and they dx her with having arthritis.,"['Arthralgia', 'Arthritis', 'Gait inability', 'Pain in extremity']","[
+  {
+    ""Pain in extremity"": [""painful tear in her left knee""],
+    ""Gait inability"": [""couldn't walk""]
+  },
+  {
+    ""Arthritis"": [""dx her with having arthritis""],
+    ""Arthralgia"": [""none""]
+  }
+]","[
+  {
+    ""Pain in extremity"": [
+      ""painful tear in her left knee""
+    ],
+    ""Gait inability"": [
+      ""couldn't walk""
+    ]
+  },
+  {
+    ""Arthritis"": [
+      ""dx her with having arthritis""
+    ]
+  },
+  {
+    ""Arthralgia"": [
+      ""none""
+    ]
+  }
+]",No temporal information found,0,True
+1203828,"pt says he feels like has been hit by a train.  He is very achy, chills, fatigue, hot with no fever, nauseated, light headiness, dizziness.  Feeling of being drunk like his motor sensors are off.  He has taken ibuprofen for his symptoms.","['Chills', 'Dizziness', 'Fatigue', 'Feeling hot', 'Motor developmental delay', 'Nausea', 'Pain']",No temporal information found,No temporal information found,,1,True
+1293850,"CHest pain, heart palpitations fatigue - duration 1 month headaches - duration persistent","['Chest pain', 'Fatigue', 'Headache', 'Palpitations']","""No temporal information found""",No temporal information found,,1,True
+2091291,"Irregular heart beat; Ganglion cyst on right hand caused tendon to frayed; Arm tendon inflammed; Tendon to frayed; Pain on hands; Not flex up and down; Inflammation in thumb; FACILITATED COLLECT  This is a solicited report received from contactable reporter(s) (Consumer or other non HCP) for a sponsored program. The reporter is the patient. Other Case identifier(s): 22K-163-4238565-00 (AbbVie).  A 50 year-old female patient received bnt162b2 (BNT162B2), intramuscular, administration date 31Mar2021 (Batch/Lot number: unknown) at the age of 50 years as dose 1, single for covid-19 immunisation; adalimumab (HUMIRA), first regimen subcutaneous from 19Feb2017 (Lot number: 1137671) to 02Jan2022 at 80 mg (citrate free (80 mg,1 in 1 wk)), second regimen subcutaneous from 06Feb2017 (Lot number: 1137671) to 06Feb2017 at 80 mg (80 mg, citrate free loading dose (80 mg,2 in 1 once)), third regimen subcutaneous from 24Jan2017 (Lot number: 1137671) to 24Jan2017 at 160 mg 1x/day (160 mg, 1x/day, (citrate free loading dose)) and fourth regimen subcutaneous from Jan2016 (Lot number: 1154341) to May2016 at 40 mg (40 mg, (citrate free (40 mg,1 in 2 wk))) for hidradenitis, rheumatoid arthritis, colitis ulcerative. Relevant medical history included: ""Alcohol: Mixed Drink"", start date: 1990, stop date: 1993; ""Irregular Heart Beat"", start date: 2011 (unspecified if ongoing); ""Ulcerative colitis"" (unspecified if ongoing); ""Hidradenitis Suppurativa"" (unspecified if ongoing); ""Esophageal acid reflux"" (unspecified if ongoing); ""Thyroid problem"" (unspecified if ongoing); ""Depression"" (unspecified if ongoing); ""High blood pressure"" (unspecified if ongoing), notes: High blood pressure; ""Non Tobacco User"" (unspecified if ongoing), notes: ~~~. Family history included: ""Familial History Of Heart Attack On Both Sides"" (unspecified if ongoing), notes: Familial History Of Heart Attack On Both Sides; ""Familial History Of Colon Cancer"" (unspecified if ongoing); ""Familial History Of Hidradenitis On Mother Side"" (unspecified if ongoing). Concomitant medication(s) included: IMURAN [AZATHIOPRINE SODIUM] taken for colitis ulcerative, hidradenitis; APRISO taken for colitis ulcerative; PRILOSEC [OMEPRAZOLE MAGNESIUM] taken for gastrooesophageal reflux disease; LIOTHYRONINE taken for thyroid disorder; LEVOTHYROXINE taken for thyroid disorder; PROZAC taken for depression; VERAPAMIL taken for hypertension. Past drug history included: Levaquin, reaction(s): ""Allergy Manifested By Intestinal Upset"", notes: Levaquin, Amoxicillin, Cefdinir Allergy Manifested By Intestinal Upset; Amoxicillin, reaction(s): ""Allergy Manifested By Intestinal Upset"", notes: Levaquin, Amoxicillin, Cefdinir Allergy Manifested By Intestinal Upset; Cefdinir, reaction(s): ""Allergy Manifested By Intestinal Upset"", notes: Levaquin, Amoxicillin, Cefdinir Allergy Manifested By Intestinal Upset; Codein, reaction(s): ""Codein Allergy Manifested By Vomiting"", notes: Codein Allergy Manifested By Vomiting; Oxycodone, reaction(s): ""Oxycodone Allergy"", notes: Oxycodone Allergy. The following information was reported: SYNOVIAL CYST (medically significant) with onset Mar2021, outcome ""not recovered"", described as ""Ganglion cyst on right hand caused tendon to frayed""; INFLAMMATION (medically significant) with onset 2021, outcome ""recovered"" (2021), described as ""Inflammation in thumb""; TENDONITIS (medically significant) with onset Mar2021, outcome ""not recovered"", described as ""Arm tendon inflammed""; TENDON DISORDER (non-serious) with onset Mar2021, outcome ""not recovered"", described as ""Tendon to frayed""; PAIN IN EXTREMITY (non-serious) with onset Mar2021, outcome ""not recovered"", described as ""Pain on hands""; UNEVALUABLE EVENT (non-serious) with onset Mar2021, outcome ""not recovered"", described as ""Not flex up and down""; HEART RATE IRREGULAR (non-serious), outcome ""not recovered"", described as ""Irregular heart beat"". The patient underwent the following laboratory tests and procedures: heart rate: (2011) irregular; x-ray: (Mar2021) ganglion cyst; x-ray limb: (Jan2022) ganglion cyst grown significantly. The action taken for adalimumab was temporarily withdrawn on May2016. Therapeutic measures were taken as a result of synovial cyst, inflammation, tendonitis, tendon disorder, pain in extremity, unevaluable event, heart rate irregular with Lipitor and Cortisone. It was unknown if patient was enrolled in a COVID-19 Vaccine Trial. .    Clinical course: On 28Apr2021, she received second dose of COVID-19 Vaccine manufactured by Pfizer/BioNTech via intramuscular route. Causality for Humira 40MG/0.4ML(Adalimumab)  The reporter's causality for the event(s) of ganglion cyst on right hand caused tendon to frayed onset in Mar2021, serositis of appendix/chain of events to appendix, inflammation in thumb, pain on hands, ganglion cyst on right hand caused tendon to frayed onset in Mar2021, arm tendon inflammed, irregular heart beat and could not flex up and down with Humira 40MG/0.4ML(Adalimumab) was no reasonable possibility. AbbVie's opinion is that there is no reasonable possibility that the events of ganglion cyst on right hand caused tendon to frayed onset in Mar2021, serositis of appen-dix/chain of events to appendix, inflammation in thumb, pain on hands, ganglion cyst on right hand caused tendon to frayed onset in Mar2021, arm tendon inflammed, irregular heart beat and could not flex up and down are related to Humira 40MG/0.4ML(Adalimumab).   Causality as per reporter (drug/vaccine) : Not Reported.  No follow-up attempts are possible; information about lot/batch number cannot be obtained. No further information is expected.; Sender's Comments: As per available information in the case provided, the causal association between the reported  event and the suspect drug cannot be excluded. The impact of this report on the benefit/risk profile of the Pfizer product is evaluated as part of Pfizer procedures for safety evaluation, including the review and analysis of aggregate data for adverse events. Any safety concern identified as part of this review, as well as any appropriate action in response, will be promptly notified to regulatory authorities, Ethics Committees, and Investigators, as appropriate.","['Heart rate', 'Heart rate irregular', 'Inflammation', 'Pain in extremity', 'Synovial cyst', 'Tendon disorder', 'Tendonitis', 'X-ray limb']","[
+  {
+    ""Heart rate"": [
+      ""heart rate: (2011) irregular""
+    ]
+  },
+  {
+    ""Heart rate irregular"": [
+      ""Irregular heart beat""
+    ],
+    ""Synovial cyst"": [
+      ""Ganglion cyst on right hand caused tendon to frayed""
+    ],
+    ""Tendonitis"": [
+      ""Arm tendon inflammed""
+    ],
+    ""Tendon disorder"": [
+      ""Tendon to frayed""
+    ],
+    ""Pain in extremity"": [
+      ""Pain on hands""
+    ],
+    ""Inflammation"": [
+      ""Inflammation in thumb""
+    ]
+  },
+  {
+    ""X-ray limb"": [
+      ""x-ray limb: (Jan2022) ganglion cyst grown significantly""
+    ]
+  }
+]","[
+  {
+    ""Heart rate"": [
+      ""heart rate: (2011) irregular""
+    ]
+  },
+  {
+    ""Heart rate irregular"": [
+      ""Irregular heart beat""
+    ],
+    ""Synovial cyst"": [
+      ""Ganglion cyst on right hand caused tendon to frayed""
+    ],
+    ""Tendonitis"": [
+      ""Arm tendon inflammed""
+    ],
+    ""Tendon disorder"": [
+      ""Tendon to frayed""
+    ],
+    ""Pain in extremity"": [
+      ""Pain on hands""
+    ],
+    ""Inflammation"": [
+      ""Inflammation in thumb""
+    ]
+  },
+  {
+    ""X-ray limb"": [
+      ""x-ray limb: (Jan2022) ganglion cyst grown significantly""
+    ]
+  }
+]",No temporal information found,0,True
+1614217,"todos los mismos sÃ­ntomas que cuando tuvo covid-19; sentÃ­a mucho frÃ­o; dolor de huesos; se le quitÃ³ el hambre; escalofrÃ­os; dolor de cabeza; tenÃ­a que ir al baÃ±o a cada rato; no pudo comer porque cualquier cosa la vomitaba; This spontaneous case was reported by a consumer and describes the occurrence of VACCINATION COMPLICATION (todos los mismos sÃ­ntomas que cuando tuvo covid-19), FEELING COLD (sentÃ­a mucho frÃ­o), BONE PAIN (dolor de huesos), DECREASED APPETITE (se le quitÃ³ el hambre) and CHILLS (escalofrÃ­os) in a 51-year-old female patient who received mRNA-1273 (Moderna COVID-19 Vaccine) (batch no. 07C21A) for COVID-19 vaccination. The occurrence of additional non-serious events is detailed below.     No Medical History information was reported.    On 30-Apr-2021, the patient received first dose of mRNA-1273 (Moderna COVID-19 Vaccine) (unknown route) 1 dosage form. On 30-Apr-2021, the patient experienced VACCINATION COMPLICATION (todos los mismos sÃ­ntomas que cuando tuvo covid-19), FEELING COLD (sentÃ­a mucho frÃ­o), BONE PAIN (dolor de huesos), DECREASED APPETITE (se le quitÃ³ el hambre), CHILLS (escalofrÃ­os), HEADACHE (dolor de cabeza), NAUSEA (tenÃ­a que ir al baÃ±o a cada rato) and VOMITING (no pudo comer porque cualquier cosa la vomitaba). On 02-May-2021, VACCINATION COMPLICATION (todos los mismos sÃ­ntomas que cuando tuvo covid-19), DECREASED APPETITE (se le quitÃ³ el hambre), NAUSEA (tenÃ­a que ir al baÃ±o a cada rato) and VOMITING (no pudo comer porque cualquier cosa la vomitaba) had resolved. At the time of the report, FEELING COLD (sentÃ­a mucho frÃ­o), BONE PAIN (dolor de huesos), CHILLS (escalofrÃ­os) and HEADACHE (dolor de cabeza) outcome was unknown.        The action taken with mRNA-1273 (Moderna COVID-19 Vaccine) (Unknown) was unknown.       Concomitant medications were  not provided. No Treatment details were provided.   This case was linked to MOD21-087003, MOD21-087004, MOD21-087005, MOD21-087006, US-MODERNATX, INC.-MOD-2021-107093 (E2B Linked Report).   Most recent FOLLOW-UP information incorporated above includes: On 22-Jul-2021: Non significant follow up received and contains no new information; Sender's Comments:  MOD21-087003:cross linked id MOD21-087004:cross linked id MOD21-087005:cross linked id MOD21-087006:cross linked id US-MODERNATX, INC.-MOD-2021-107093:","['Bone pain', 'Chills', 'Decreased appetite', 'Feeling cold', 'Headache', 'Nausea', 'Vaccination complication', 'Vomiting']","""No temporal information found""",No temporal information found,,1,True
+2236064,"Full body rash, currently diagnosed as dermatitis. Has lasted for 4+ months. Itchy red bumps on skin","['Biopsy skin abnormal', 'Dermatitis', 'Rash', 'Rash erythematous', 'Rash pruritic']",No temporal information found,No temporal information found,,1,True
+2756333,"ED (erectile dysfunction); heptatitis A immune; Chronic fatigue; Snoring; Daytime sleepiness; Other constipation; Other insomnia; Chronic bilateral low back pain without sciatica; paresthesia of right leg; HSV infection; Chronic allergic rhinitis; G6PD deficiency; Microalbuminuria; Vitamin D deficiency; trigger finger; visually impaired:yes; hyperglycemia; This serious case was reported by a nurse via patient support programs and described the occurrence of erectile dysfunction in a 58-year-old male patient who received cabotegravir, rilpivirine (Cabenuva) suspension for injection for hiv infection.   Co-suspect products included DTPa (Reduced antigen) (Tdap Vaccine) for prophylaxis, Herpes zoster (Shingrix) for prophylaxis, Influenza vaccine for prophylaxis, SMALLPOX VACCINE LIVE (MVA-BN) (JYNNEOS) for prophylaxis, davesomeran, elasomeran (Moderna Covid-19 Vaccine, Bivalent (Original And Omicron Ba.4/Ba.5)) for prophylaxis, ELASOMERAN (MODERNA COVID-19 VACCINE) for prophylaxis, atorvastatin calcium (Lipitor) tablet for product used for unknown indication, cetirizine hydrochloride (Zyrtec) tablet for product used for unknown indication, diclofenac (Voltaren) gel for product used for unknown indication, docusate sodium (Colace) capsule for product used for unknown indication, doxylamine succinate (Unisom) tablet for product used for unknown indication, vitamin d2 capsule for product used for unknown indication, insulin glargine (Basaglar Kwikpen) pen for product used for unknown indication, insulin lispro (Humalog) for product used for unknown indication, hydrochlorothiazide, losartan potassium (Hyzaar) tablet for product used for unknown indication, sildenafil citrate (Viagra) tablet for product used for unknown indication, fluocinolone acetonide (Synalar) for product used for unknown indication, gabapentin (Neurontin) capsule for product used for unknown indication, nystatin, triamcinolone acetonide (Mycolog-Ii) ointment for product used for unknown indication, macrogol 3350 (Glycolax) for product used for unknown indication and latanoprost (Xalatan) for product used for unknown indication.   The patient's past medical history included tenolysis (Tenolysis extensor tendon hand/finger each item). Concurrent medical conditions included polyneuropathy, mixed hyperlipidemia, asymptomatic hiv infection (infection status (nadir unknown), chlamydial infection, depression, type ii diabetes mellitus, essential hypertension, gonorrhea, hay fever, blood pressure high, syphilis, alcohol use (not currently), nonsmoker (e-cigarette/vaping use: never), hepatitis b (extended vaccination on 02 Apr 2020), allergy (hay fever) and pollen allergy (itching). Concomitant products included influenza vaccine inact sag 3v (Flucelvax).   On an unknown date, the patient started Cabenuva. On 22-MAR-2022, the patient received Tdap Vaccine. On 24-AUG-2022, the patient received Shingrix. On 12-JAN-2022, the patient received Influenza vaccine. On 05-AUG-2022, the patient received JYNNEOS. On 05-DEC-2022, the patient started Moderna Covid-19 Vaccine, Bivalent (Original And Omicron Ba.4/Ba.5). On 30-MAR-2021, the patient received MODERNA COVID-19 VACCINE. On an unknown date, the patient started Lipitor 10 mg, Zyrtec 10 mg, Voltaren 1 %, Colace 100 mg, Unisom 25 mg, vitamin d2 1250 mcg, Basaglar Kwikpen, Humalog, Hyzaar, Viagra 100 mg, Synalar 0.01 %, Neurontin 300 mg, Mycolog-Ii, Glycolax and Xalatan 0.005 %. On an unknown date, an unknown time after starting Cabenuva and an unknown time after receiving Tdap Vaccine and Shingrix, the patient experienced erectile dysfunction (Verbatim: ED (erectile dysfunction)) (serious criteria GSK medically significant), hepatitis a (Verbatim: heptatitis A immune), chronic fatigue (Verbatim: Chronic fatigue), snoring (Verbatim: Snoring), daytime sleepiness (Verbatim: Daytime sleepiness), constipation (Verbatim: Other constipation), insomnia (Verbatim: Other insomnia), low back pain (Verbatim: Chronic bilateral low back pain without sciatica), paresthesia lower limb (Verbatim: paresthesia of right leg), herpes simplex (Verbatim: HSV infection), allergic rhinitis (Verbatim: Chronic allergic rhinitis), glucose-6-phosphate dehydrogenase deficiency (Verbatim: G6PD deficiency), microalbuminuria (Verbatim: Microalbuminuria), vitamin d deficiency (Verbatim: Vitamin D deficiency), trigger finger (Verbatim: trigger finger), visual impairment (Verbatim: visually impaired:yes) and hyperglycemia (Verbatim: hyperglycemia). The action taken with Cabenuva was unknown. The action taken with Lipitor was unknown. The action taken with Zyrtec was unknown. The action taken with Voltaren was unknown. The action taken with Colace was unknown. The action taken with Unisom was unknown. The action taken with vitamin d2 was unknown. The action taken with Basaglar Kwikpen was unknown. The action taken with Humalog was unknown. The action taken with Hyzaar was unknown. The action taken with Viagra was unknown. The action taken with Synalar was unknown. The action taken with Neurontin was unknown. The action taken with Mycolog-Ii was unknown. The action taken with Glycolax was unknown. The action taken with Xalatan was unknown. The outcome of the erectile dysfunction, hepatitis a, chronic fatigue, snoring, daytime sleepiness, constipation, insomnia, low back pain, paresthesia lower limb, herpes simplex, allergic rhinitis, glucose-6-phosphate dehydrogenase deficiency, microalbuminuria, vitamin d deficiency, trigger finger, visual impairment and hyperglycemia were not reported.   It was unknown if the reporter considered the erectile dysfunction, hepatitis a, chronic fatigue, snoring, daytime sleepiness, constipation, insomnia, low back pain, paresthesia lower limb, herpes simplex, allergic rhinitis, glucose-6-phosphate dehydrogenase deficiency, microalbuminuria, vitamin d deficiency, trigger finger, visual impairment and hyperglycemia to be related to Cabenuva, Cabenuva Needle Device, Cabenuva Syringe Device, Cabenuva Vial Adaptor Device, Tdap Vaccine and Shingrix.     It was unknown if the company considered the erectile dysfunction, hepatitis a, chronic fatigue, snoring, daytime sleepiness, constipation, insomnia, low back pain, paresthesia lower limb, herpes simplex, allergic rhinitis, glucose-6-phosphate dehydrogenase deficiency, microalbuminuria, vitamin d deficiency, trigger finger, visual impairment and hyperglycemia to be related to Cabenuva, Cabenuva Needle Device, Cabenuva Syringe Device, Cabenuva Vial Adaptor Device, Tdap Vaccine and Shingrix.   This report is made by GSK without prejudice and does not imply any admission or liability for the incident or its consequences.   GSK Receipt Date: 07-MAR-2024 This case was received from Nurse. Co-suspect included was BD Ultra-Fine Mini Pen needles 31 gaugex3/16 inch needle. Medication included Lancets (Accu-Chek Soficlex Lancets), blood sugar diagnostic strips, blood-glucose meter monitoring kit. Patient's smoking status, smokeless tobacco status, vaping use and drug use was never used. E-cigarette/vaping user was never used. No passive exposure. Counselling was given. Patient was on antiviral therapy. No disability status, hearing impaired. No special needs. Health Maintenance Modifiers: Hepatitis B: Indicated. Healthful Diet and Physical Activity Adults with CVD (Cardiovascular disease) Risk: Indicated. Hepatitis B: Not indicated. Dental prophylaxis: Indicated. Health maintenance: diabetes foot exam, Imm (Immunization)- Meningococcal (1-risk 2-dose series), Immunization- Pneumococcal (1-PCV), Retinopathy screening, colorectal cancer screening were never done. On 01-NOV-2023 patient had dental prophylaxis. On 17-MAY-2024 patient would have dental examination. On 14-AUG-2024, patient would have Diabetes HbA1c. On 11-OCT-2024, patient would have syphilis screening. On 14-FEB-2025 ,patient would have Diabetes Microalbumin with creatinine, lipid, serum creatinine screening. On 01-MAR-2025 ,patient would have tobacco screening. On 22-MAR-2032 patient would have Imm- DTap (Diphtheria, Tetanus, and Pertussis)/Tdap/Td (2-Td or Tdap). It was unknown if reporter considered event to be related to suspect.","['Back pain', 'Constipation', 'Erectile dysfunction', 'Fatigue', 'Glucose-6-phosphate dehydrogenase deficiency', 'Hepatitis A', 'Herpes simplex', 'Hyperglycaemia', 'Insomnia', 'Microalbuminuria', 'Paraesthesia', 'Rhinitis allergic', 'Snoring', 'Somnolence', 'Trigger finger', 'Visual impairment', 'Vitamin D deficiency']",No temporal information found,No temporal information found,,1,True
+1626368,"chest pain; Bronchitis; hissing in ear; headache; Based on the current case data, this case has been classified as invalid. This spontaneous case was reported by a consumer and describes the occurrence of CHEST PAIN (chest pain), BRONCHITIS (Bronchitis), TINNITUS (hissing in ear) and HEADACHE (headache) in a patient of an unknown age and gender who received mRNA-1273 (Moderna COVID-19 Vaccine) for COVID-19 vaccination.     The patient's past medical history included No adverse event.    On 17-Mar-2021, the patient received first dose of mRNA-1273 (Moderna COVID-19 Vaccine) (unknown route) 1 dosage form. On an unknown date, the patient experienced CHEST PAIN (chest pain), BRONCHITIS (Bronchitis), TINNITUS (hissing in ear) and HEADACHE (headache). At the time of the report, CHEST PAIN (chest pain), BRONCHITIS (Bronchitis), TINNITUS (hissing in ear) and HEADACHE (headache) outcome was unknown.        The action taken with mRNA-1273 (Moderna COVID-19 Vaccine) (Unknown) was unknown.       Caller was warm transferred from Moderna Customer Care, case number 00132442. Caller was very angry and refused to answer any of the agents questions. She stated ""you don't sound like you know anything and you are not a medical professional. You need to answer my questions, I don't need to answer yours!"" Customer care stated that caller developed bronchitis, hissing in ear, chest pain and headache. Caller did not provide consent for safety follow up.","['Bronchitis', 'Chest pain', 'Headache', 'Tinnitus']",No temporal information found,No temporal information found,,1,True
+2359701,"I started getting symptoms the week before tested. I thought I had a cold with no fever. I was lethargic, runny nose, cough, ear aches, headache, and nauseous and diarrhea . I took an at home COVID-19 test that was positive. I contacted my doctor and I was not prescribed an antiviral medication due to the symptoms being over 5 days. My symptoms are still active and lingering at times. I am still nauseous with not eating as well and headaches. I have memory issues as well like a brain fog. I also do not sleep well and wake up all through the night. I went to my gastroenterologist and had some tests done. He could not determine whether my issues are COVID-19 related. I did also get COVID-19 on 12/22/2021 which was not severe and was like a cold.","['Cough', 'Diarrhoea', 'Ear pain', 'Feeling abnormal', 'Headache', 'Hypophagia', 'Lethargy', 'Malaise', 'Memory impairment', 'Middle insomnia', 'Nasopharyngitis', 'Nausea', 'Rhinorrhoea', 'Sleep disorder']",No temporal information found,No temporal information found,,1,True
+1168632,"One week after the shot, the area became red, itchy, hot and hard.  The affected continues to get larger as time passes.  I have taken acetaminophen several times.","['Injection site erythema', 'Injection site induration', 'Injection site pruritus', 'Injection site warmth']",No temporal information found,No temporal information found,,1,True
+1266498,"Full arm to fingertip numbness in left arm, extreme dizziness, shortness of breath, fainting, low fever (for 1 day) and fatigue, all from 4/16 - 4/23.","['Dizziness', 'Dyspnoea', 'Fatigue', 'Hypoaesthesia', 'Pyrexia', 'Syncope']",No temporal information found,No temporal information found,,1,True
+1117813,"Had a fever from 101.4 - 101.9 from onset through late evening on 3/19. Treated with Tylenol that lowered the fever but didn't take it away. Other symptoms included nausea, loss of appetite, muscle aches, pain in both eyes, pain in the lower backside  of my head, pain at injection site. Fatigue. Slept all day and through the night.  3/20/2021 8:50 am - as I complete this form I still have side effects even though most symptoms are gone now; Currently,  extremely fatigued with a headache that is at the back of my head only. Soreness at injection site. Other symptoms are gone.","['Decreased appetite', 'Eye pain', 'Fatigue', 'Headache', 'Hypersomnia', 'Injection site pain', 'Nausea', 'Pain', 'Pyrexia']","""No temporal information found""",No temporal information found,,1,True
+1830968,"Chest pain; Shortness of breath; Flu like symptoms; Nausea; This is a spontaneous report from a contactable nurse, the patient. A 45-year-old non-pregnant female patient received BNT162b2 (PFIZER-BIONTECH COVID-19 mRNA VACCINE; Lot Number: UNKNOWN) via an unspecified route of administration in the right arm on 20Sep2021 at 12:00 (at the age of 45-year-old), as a single dose for COVID-19 immunisation. Medical history and concomitant medications were not reported. Prior to the vaccination, the patient was not diagnosed with COVID-19. The patient did not receive any other vaccines within four weeks prior to the COVID vaccine. On 20Sep2021 at 22:00, the patient experienced chest pain, nausea, shortness of breath and flu like symptoms. The events resulted in doctor or other healthcare professional office/clinic visit. Therapeutic measures were not taken as a result of the events. Since the vaccination, the patient had not been tested for COVID-19. The clinical outcome of the events chest pain, shortness of breath, flu like symptoms and nausea were not resolved at the time of this report.   The lot number for BNT162b2 was not provided and will be requested during follow up.","['Chest pain', 'Dyspnoea', 'Influenza like illness', 'Nausea']",No temporal information found,No temporal information found,,1,True
+1426666,"Sore throat; Sinus pain; Body aches and pain; Stomach cramping; Diarrhoea; Extreme fatigue; Headache; Swollen lymph nodes in throat; Sinus drainage; This is a spontaneous report from a contactable consumer, the patient. A 56-year-old male patient received first dose of BNT162b2 (PFIZER-BIONTECH COVID-19 mRNA VACCINE; Lot number: EN6208) via unspecified route of administration in left arm on 17Mar2021 at 10:15 (at the age of 56-year-old) as a single dose for COVID-19 immunisation. Medical history and concomitant medications were not reported. The patient had no allergies to medications, food, or other products. Prior to the vaccination, the patient was not diagnosed with COVID-19. Since the vaccination, the patient had not tested positive for COVID-19. The patient did not receive any other vaccines within 4 weeks prior to the COVID vaccination. On 19Mar2021 at 07:00, the patient experienced sore throat, sinus pain, drainage, swollen lymph nodes in throat, headache, body aches and pain, stomach cramping, diarrhoea and extreme fatigue. It was reported that the patient did not receive any treatment for the reported events. The clinical outcome of sore throat, sinus pain, drainage, swollen lymph nodes in throat, headache, body aches and pain, stomach cramping, diarrhoea and extreme fatigue were not resolved.   No follow-up attempts are needed. No further information is expected.","['Abdominal pain upper', 'Diarrhoea', 'Fatigue', 'Headache', 'Lymphadenopathy', 'Oropharyngeal pain', 'Pain', 'Sinus pain']",No temporal information found,No temporal information found,,1,True
+1305146,"the site is a little sore; pain in her left wrist/pain to right shoulder; pain to right shoulder and believes it is from either the fall, or torn rotator cuff; dry mouth; pain to right shoulder and believes it is from either the fall, or torn rotator cuff; This is a spontaneous report from a contactable consumer and other hcp received from. An 88-year-old female patient received bnt162b2 (PFIZER-BIONTECH COVID-19 VACCINE), second dose at the age of 88-years-old via an unspecified route of administration on 01Apr2021 (Batch/Lot number was not reported) as single dose for covid-19 immunisation.   Medical history included bypass graft in 2016 (five years ago), pacemaker placed in 2021 (about a month and a half ago). The patient's concomitant medications were not reported. The patient received the first dose of bnt162b2 (PFIZER-BIONTECH COVID-19 VACCINE) on an unspecified date (lot number not reported) for covid-19 immunisation. The patient reported having pain in her left wrist, wears a band, and feels safe while performing activities. She further reported having pain to right shoulder and believes it is from either the fall, or torn rotator cuff. She had the vaccine on 01Apr2021 and reported that the site is a little sore. She further reported due to having dry mouth she was already drinking water all the time. The events occurred on an unspecified date in Apr2021. Patient reported placing ice pack to site, and taking tylenol. She also reported having various blood readings, and have shared readings with MD staff. The outcome of the events was unknown.  Information on the batch/lot number has been requested.","['Arthralgia', 'Dry mouth', 'Fall', 'Rotator cuff syndrome', 'Vaccination site pain']",No temporal information found,No temporal information found,,1,True
+1095925,Itching very frequent area get red and swollen almost every day since shot was administered. It?s been 3 weeks and same intense itch at injection  area,"['Injection site erythema', 'Injection site pruritus', 'Injection site swelling', 'Pruritus']",No temporal information found,No temporal information found,,1,True
+2640377,"Pfizer vaccine was administered outside of clinic- reported by patient- ? NO LOT NUMBER WERE SUPPLIED --------------------------------------------------------------------------------------------------------------------------------- ACUTE HYPOXEMIC RESPIRATORY FAILURE 9/11/2022 HEART FAILURE W REDUCED LVEF <=30%, UNSPECIFIED ACUITY ACUTE HYPOXEMIC RESPIRATORY FAILURE 9/11/2022 ATRIAL FIBRILLATION, UNSPECIFIED ACUTE HYPOXEMIC RESPIRATORY FAILURE 9/11/2022 CHF EXACERBATION, UNSPECIFIED  ACUTE HYPOXEMIC RESPIRATORY FAILURE 9/11/2022 ATRIAL FIBRILLATION, UNSPECIFIED ACUTE HYPOXEMIC RESPIRATORY FAILURE 9/11/2022 SYSTOLIC HEART FAILURE, ACUTE ON CHRONIC ACUTE HYPOXEMIC RESPIRATORY FAILURE 9/11/2022 SYSTOLIC HEART FAILURE, ACUTE ON CHRONIC ACUTE HYPOXEMIC RESPIRATORY FAILURE 9/11/2022 SYSTOLIC HEART FAILURE, ACUTE ON CHRONIC ACUTE HYPOXEMIC RESPIRATORY FAILURE 9/11/2022 ATRIAL FIBRILLATION, UNSPECIFIED","['Acute respiratory failure', 'Atrial fibrillation', 'Cardiac failure acute', 'Cardiac failure congestive', 'Condition aggravated', 'Ejection fraction decreased', 'Left ventricular failure']",No temporal information found,No temporal information found,,1,True
+1700862,"6 months after the last vaccine I experienced vertigo, nausea, fatigue, GI distress","['Abdominal discomfort', 'Fatigue', 'Nausea', 'Vertigo']",No temporal information found,No temporal information found,,1,True
+1195160,"Severe diarrhea, vomiting, migraine headache, chills and fever for two days","['Chills', 'Diarrhoea', 'Headache', 'Migraine', 'Pyrexia', 'Vomiting']",No temporal information found,No temporal information found,,1,True
+1186121,"Rash on arm that was hot, sore, itchy. Started very small and spread over the course of 3 days. Eventually was my entire upper arm. I took benedryl 2 tablets and 800mg ibprofeun.","['Pain', 'Pruritus', 'Rash', 'Skin warm']","""No temporal information found""",No temporal information found,,1,True
+1810563,"Started having severe heart palpitations, my body got really really hot, I felt really really sick, my blood pressure was high, and I started to have a migraine.  Started around 11pm  the day of injection and lasted until 5am the day after injection","['Feeling hot', 'Hypertension', 'Malaise', 'Migraine', 'Palpitations']",No temporal information found,No temporal information found,,1,True
+1924539,"Woke up at 2AM with uncontrollable chills/shaking, couldn't get warm, headache, neck pain, hip pain, lower back pain, sweating (despite being really cold), and couldn't sleep. Insomnia every night since getting dose 2.","['Arthralgia', 'Back pain', 'Chills', 'Feeling cold', 'Headache', 'Hyperhidrosis', 'Insomnia', 'Neck pain', 'Tremor']","""No temporal information found""",No temporal information found,,1,True
+1780114,"Patient woke up Monday morning complaining of symptoms of body ache, fever, chills, headache, rapid heart rate, and swelling in armpit. The pain in armpit swelling escalated and was visibly swollen. Patient had over 100 degree F fever. Patient went to ER. ER ran EKG, bloodwork, and ultrasound. Provider found patient has swollen lymph nodes and her allergies were escalated in reaction to the vaccine. ER doctor prescribed ibuprofen, zpak, flonase, and allegra. Patient is taking claritin for heightened allergies.","['Axillary pain', 'Chills', 'Condition aggravated', 'Headache', 'Heart rate increased', 'Hypersensitivity', 'Lymphadenopathy', 'Pain', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+2482946,"Myalgia, Arthralgia, Nausea Vomiting,  Chills, Tmax 102.3F. sweating,fatigue,generalized weakness,myalgias,arthralgias, nausea, and nasal congestion starting 13 hours after vaccine administration.  Narrative:  Chills, Tmax 102.3F. sweating,fatigue,generalized weakness,myalgias,arthralgias, nausea, and nasal congestion starting 13 hours after COVID #2 vaccine administration.","['Arthralgia', 'Asthenia', 'Chills', 'Fatigue', 'Hyperhidrosis', 'Myalgia', 'Nasal congestion', 'Nausea', 'Vomiting']","""No temporal information found""",No temporal information found,,1,True
+984869,"Chills, fever of 103.4, tingling/ numbness in the opposite arm of the injection. This lasted for 36 hours. However, obvious left arm muscle weakness and mild cramping in same arm is still present. Maybe a coincidence? Getting an EMG test today to evaluate the extent of nerve involvement and check for signs of muscle atrophy.","['Chills', 'Hypoaesthesia', 'Muscle spasms', 'Muscular weakness', 'Paraesthesia', 'Pyrexia']","[
+  {
+    ""Chills"": [""Chills""],
+    ""Hypoaesthesia"": [""tingling/ numbness in the opposite arm of the injection""],
+    ""Paraesthesia"": [""tingling/ numbness in the opposite arm of the injection""],
+    ""Pyrexia"": [""fever of 103.4""]
+  },
+  {
+    ""Muscular weakness"": [""obvious left arm muscle weakness""],
+    ""Muscle spasms"": [""mild cramping in same arm""]
+  }
+]","[
+  {
+    ""Chills"": [
+      ""Chills""
+    ],
+    ""Hypoaesthesia"": [
+      ""tingling/ numbness in the opposite arm of the injection""
+    ],
+    ""Paraesthesia"": [
+      ""tingling/ numbness in the opposite arm of the injection""
+    ],
+    ""Pyrexia"": [
+      ""fever of 103.4""
+    ]
+  },
+  {
+    ""Muscular weakness"": [
+      ""obvious left arm muscle weakness""
+    ],
+    ""Muscle spasms"": [
+      ""mild cramping in same arm""
+    ]
+  }
+]",No temporal information found,0,True
+1437331,"The patient describes body aches, chills, fever, and headaches. The temperature was not reported, but fever could be felt ""an inch away from the forehead."" The patient described sweating profusely and then shaking with chills. Symptoms started approximately 12 hours after vaccine administration and continued into the day following vaccination.","['Chills', 'Feeling hot', 'Headache', 'Hyperhidrosis', 'Pain', 'Pyrexia']","[
+  {
+    ""Pain"": [""body aches""],
+    ""Chills"": [""chills""],
+    ""Pyrexia"": [""fever could be felt \""an inch away from the forehead\""""],
+    ""Headache"": [""headaches""],
+    ""Feeling hot"": [""none""]
+  },
+  {
+    ""Hyperhidrosis"": [""sweating profusely""]
+  }
+]","[
+  {
+    ""Pain"": [
+      ""body aches""
+    ],
+    ""Chills"": [
+      ""chills""
+    ],
+    ""Pyrexia"": [
+      ""fever could be felt \""an inch away from the forehead\""""
+    ],
+    ""Headache"": [
+      ""headaches""
+    ]
+  },
+  {
+    ""Hyperhidrosis"": [
+      ""sweating profusely""
+    ]
+  },
+  {
+    ""Feeling hot"": [
+      ""none""
+    ]
+  }
+]",No temporal information found,0,True
+2006065,"Patient admitted to hospital for nausea, vomiting, and diarrhea due to Covid.  She also had body aches, weakness, and sinus congestion.","['Asthenia', 'Diarrhoea', 'Nausea', 'Pain', 'Sinus congestion', 'Vomiting']",No temporal information found,No temporal information found,,1,True
+935361,10days after receiving vaccine developed an anaphylactic allergy after eating shellfish which I was never allergic to. I developed a red itchy rash over the entire body with throat tightening. Went to ER where I was treated with H1 H2 blockers steroids. After being treated and observed for a few hours I re developed the rash and symptoms again requiring further treatment and observation.,"['Anaphylactic reaction', 'Rash', 'Rash erythematous', 'Rash pruritic', 'Throat tightness']","[
+  {
+    ""Anaphylactic reaction"": [
+      ""anaphylactic allergy after eating shellfish which I was never allergic to""
+    ]
+  },
+  {
+    ""Rash"": [
+      ""red itchy rash over the entire body""
+    ],
+    ""Rash erythematous"": [
+      ""red itchy rash over the entire body""
+    ],
+    ""Rash pruritic"": [
+      ""red itchy rash over the entire body""
+    ],
+    ""Throat tightness"": [
+      ""throat tightening""
+    ]
+  }
+]","[
+  {
+    ""Anaphylactic reaction"": [
+      ""anaphylactic allergy after eating shellfish which I was never allergic to""
+    ]
+  },
+  {
+    ""Rash"": [
+      ""red itchy rash over the entire body""
+    ],
+    ""Rash erythematous"": [
+      ""red itchy rash over the entire body""
+    ],
+    ""Rash pruritic"": [
+      ""red itchy rash over the entire body""
+    ],
+    ""Throat tightness"": [
+      ""throat tightening""
+    ]
+  }
+]",No temporal information found,0,True
+1645773,"Feverish feeling; Rash on my face, chest; Severe swollen on my Lymph node underneath my armpit on my arms on the vaccine site; Severe swollen on my Lymph node underneath my armpit on my arms on the vaccine site; This is a spontaneous report from a contactable consumer (patient). A patient of unspecified age and gender received bnt162b2 (Pfizer-BioNTech COVID-19 Vaccine, Solution for injection), dose 2 via an unspecified route of administration on 26Jul2021 (Lot Number: FA7484) as DOSE 2, SINGLE for covid-19 immunisation. The patient medical history was not reported. The patient's concomitant medications were not reported. Patient previously took first dose of BNT162B2 (LOT number: EW0196) on 21Jun2021 and patient was fine with the first dose. It was reported that patient was just had a question for his/her second dose. Patient was fine with the first dose but for a second dose which he/she received yesterday (before reporting date). On Jul2021 patient experienced the Feverish feeling, patient woke up and patient got rash on his/her face, chest and patient got severe swollen on Lymph node underneath his/her armpit on arms on the vaccine site. Outcome of the events was unknown.","['Lymphadenopathy', 'Pyrexia', 'Rash', 'Vaccination site swelling']",No temporal information found,No temporal information found,,1,True
+2019119,Swelling of face with itchyness that lasted for about 4 hours.  Bleeding at injection site that lasted for about an hour.  Pain from injection site to fingertips on and off for about 24 hours - mainly when heart rate was elevated.  Swelling at injection site of muscle was pronounced for about 48 hours.,"['Heart rate increased', 'Injection site haemorrhage', 'Injection site pain', 'Injection site swelling', 'Muscle swelling', 'Pain in extremity', 'Pruritus', 'Swelling face']","[
+  {
+    ""Swelling face"": [""Swelling of face""],
+    ""Pruritus"": [""itchiness""]
+  },
+  {
+    ""Injection site haemorrhage"": [""Bleeding at injection site""]
+  },
+  {
+    ""Injection site pain"": [""Pain from injection site to fingertips""],
+    ""Pain in extremity"": [""Pain from injection site to fingertips""],
+    ""Heart rate increased"": [""heart rate was elevated""]
+  },
+  {
+    ""Injection site swelling"": [""Swelling at injection site of muscle""],
+    ""Muscle swelling"": [""Swelling at injection site of muscle""]
+  }
+]","[
+  {
+    ""Swelling face"": [
+      ""Swelling of face""
+    ],
+    ""Pruritus"": [
+      ""itchiness""
+    ]
+  },
+  {
+    ""Injection site haemorrhage"": [
+      ""Bleeding at injection site""
+    ]
+  },
+  {
+    ""Injection site pain"": [
+      ""Pain from injection site to fingertips""
+    ],
+    ""Pain in extremity"": [
+      ""Pain from injection site to fingertips""
+    ],
+    ""Heart rate increased"": [
+      ""heart rate was elevated""
+    ]
+  },
+  {
+    ""Injection site swelling"": [
+      ""Swelling at injection site of muscle""
+    ],
+    ""Muscle swelling"": [
+      ""Swelling at injection site of muscle""
+    ]
+  }
+]",No temporal information found,0,True
+1181586,"Fever around102F for 3 hours, petered out slowly over the next 8 hours Headache Nausea/vomiting Chills Slight shortness of breath All symptoms resolved within 24 hours of onset","['Chills', 'Dyspnoea', 'Headache', 'Nausea', 'Pyrexia', 'Vomiting']","""No temporal information found""",No temporal information found,,1,True
+1262284,"Anaphylaxis / anaphylactic shock, hot feeling in throat (a few minutes after receiving second dose), tightness in throat, difficulty breathing, hyperventilation, shallow breathing, wheezing","['Anaphylactic shock', 'Dyspnoea', 'Hyperventilation', 'Hypopnoea', 'Oropharyngeal discomfort', 'Throat tightness', 'Wheezing']",No temporal information found,No temporal information found,,1,True
+996463,"2ND ACHY. DAY AFTER INJECTION. RAN FEVER 101.6. BECAME CONFUSED. GROUND GLASS COUGH, VENTRICULAR TACHYCARDIA. ADMITTED TO HOSPITAL. IV STEROIDS,AND  ANTIBIOTIC STARTED. CHANGED TO PO AFTER 3 DAYS. PT IMPROVED. COUGH RESOLVED PT SENT HOME WITH ORAL STEROIDS AND ANTIBIOTICS FOR 3 DAYS.","['Confusional state', 'Cough', 'Pain', 'Pyrexia', 'Ventricular tachycardia']","[
+  {
+    ""Pain"": [""achy""]
+  },
+  {
+    ""Pyrexia"": [""ran fever 101.6""]
+  },
+  {
+    ""Confusional state"": [""became confused""]
+  },
+  {
+    ""Cough"": [""ground glass cough""],
+    ""Ventricular tachycardia"": [""ventricular tachycardia""]
+  }
+]","[
+  {
+    ""Pain"": [
+      ""achy""
+    ]
+  },
+  {
+    ""Pyrexia"": [
+      ""ran fever 101.6""
+    ]
+  },
+  {
+    ""Confusional state"": [
+      ""became confused""
+    ]
+  },
+  {
+    ""Cough"": [
+      ""ground glass cough""
+    ],
+    ""Ventricular tachycardia"": [
+      ""ventricular tachycardia""
+    ]
+  }
+]",No temporal information found,0,True
+2113092,Vertigo for the past week straight.  Randomly on and off tingling and numbness in lips and chin for the past week.,"['Hypoaesthesia', 'Hypoaesthesia oral', 'Paraesthesia', 'Paraesthesia oral', 'Vertigo']",No temporal information found,No temporal information found,,1,True
+1036409,"Moderna Covid-19 EUA  I had extreme pain  and swelling in my left arm, shoulder, chest, and back.  Could not raise my arm without more pain.  This lasted about 24 hrs.  Started subsiding after the 24 hrs. and was gone after 48hrs.","['Arthralgia', 'Back pain', 'Chest pain', 'Joint swelling', 'Pain in extremity', 'Peripheral swelling', 'Swelling']",No temporal information found,No temporal information found,,1,True
+1103715,"02/19/2021  I had fever 101-104 for 2 days, vomiting, horrible headache, unbelievable joint muscle pain, vomiting, weakness and dizziness, diarrhea, chills and sweating, chest pain, trouble breathing","['Arthralgia', 'Asthenia', 'Chest pain', 'Chills', 'Diarrhoea', 'Dizziness', 'Headache', 'Hyperhidrosis', 'Myalgia', 'Pyrexia', 'Vomiting']","""No temporal information found""",No temporal information found,,1,True
+1106522,"Body chills, low grade fever, headache, nausea, light headed, joint and muscle aches, couldn?t sleep due to headache, vomited twice, fatigue.   Started about 11 hours after shot, and lasted until about 9 am the next morning then slept the entire day and evening.","['Arthralgia', 'Chills', 'Dizziness', 'Fatigue', 'Headache', 'Hypersomnia', 'Myalgia', 'Nausea', 'Pyrexia', 'Vomiting']",No temporal information found,No temporal information found,,1,True
+950418,"Dizziness, NauseaVomiting, Palpitations, Tachycardia, None Narrative:  Employee experienced listed symptoms appox. 1800 on 12/30. Has made it difficult to perform daily routine. All non listed vitals within normal limits.","['Dizziness', 'Nausea', 'Palpitations', 'Tachycardia', 'Vomiting']",No temporal information found,No temporal information found,,1,True
