@@ -452,6 +452,36 @@ vaers_id,symptom_text,symptom_list,llm_result_formatted,final_corrected_version,
     ""Pulmonary thrombosis"": [""two small thromboses in my lungs""]
   }
 ]",0
+1045950,"I have a large lump (axillary area)  in the armpit of my left arm which is the injection arm. I noticed it roughly two days after the 2nd injection. It was non painful at first, but now it is tender. It is roughly the size of an egg/golf ball. I also have tenderness on my chest  above my right breast but on the pectoralis muscle. Nothing in the right armpit. I also had aggressive itching at the injection site and a hard area and red welt.","['Axillary mass', 'Injection site erythema', 'Injection site induration', 'Injection site pruritus', 'Injection site urticaria', 'Lymph node pain', 'Musculoskeletal chest pain', 'Myalgia']",No temporal information found,"[
+  {
+    ""Axillary mass"": [
+      ""a large lump (axillary area) in the armpit of my left arm""
+    ]
+  },
+  {
+    ""Injection site erythema"": [
+      ""red welt""
+    ],
+    ""Injection site induration"": [
+      ""a hard area""
+    ],
+    ""Injection site pruritus"": [
+      ""aggressive itching at the injection site""
+    ],
+    ""Injection site urticaria"": [
+      ""red welt""
+    ],
+    ""Lymph node pain"": [
+      ""it is tender""
+    ],
+    ""Musculoskeletal chest pain"": [
+      ""tenderness on my chest above my right breast but on the pectoralis muscle""
+    ],
+    ""Myalgia"": [
+      ""tenderness on my chest above my right breast but on the pectoralis muscle""
+    ]
+  }
+]",0
 2599530,"She developed a runny nose around January 24, 2023. She also developed a cough around January 27, 2023. She ran 100.5-degree fever January 27 and 28, 2023. She was still coughing and had a runny nose on January 31, 2023. I took her to see the doctor. They tested her for RSV and the Flu. She tested positive for RSV. The doctor did not prescribe medication but told us to continue the humidifier and ibuprofen as needed. She also suggested wearing a mask around older family members. She began feeling better around February 4, 2023. Her symptoms almost completely resolved by February 9, 2023. She continues to have a slight cough first thing in the morning. She has a follow-up appointment to address that issue today.","['Cough', 'Pyrexia', 'Respiratory syncytial virus test positive', 'Rhinorrhoea']","[
   {
     ""Rhinorrhoea"": [
@@ -10373,6 +10403,36 @@ vaers_id,symptom_text,symptom_list,llm_result_formatted,final_corrected_version,
     ]
   }
 ]",,1
+1415077,"27 yo M presents to the ICC c/o a headache and dizziness. States that he has neck muscle stiffness and a squeezing, pressure-type headache that is affecting the top of his head and both sides of his forehead. The lights are bothering him and he is nauseated. Received COVID vaccination 4 days ago. Had a headache yesterday, which was worse than the one he has today. Has not taken any medications for symptom relief because he did not want to mess with the vaccine. Symptom duration == 5 hours. Not worsening.   Diagnosed with a tension headache.  Treated with acetaminophen 1000 mg.  Rated 8-9/10 before taking acetaminophen and 3-4/10 after acetaminophen.","['Dizziness', 'Head discomfort', 'Headache', 'Musculoskeletal stiffness', 'Nausea', 'Photophobia', 'Tension headache']",No temporal information found,"[
+  {
+    ""Headache"": [
+      ""a headache and dizziness"",
+      ""a squeezing, pressure-type headache that is affecting the top of his head and both sides of his forehead"",
+      ""Had a headache yesterday""
+    ]
+  },
+  {
+    ""Dizziness"": [
+      ""a headache and dizziness""
+    ],
+    ""Head discomfort"": [
+      ""a squeezing, pressure-type headache that is affecting the top of his head and both sides of his forehead""
+    ],
+    ""Musculoskeletal stiffness"": [
+      ""neck muscle stiffness""
+    ],
+    ""Nausea"": [
+      ""he is nauseated""
+    ],
+    ""Photophobia"": [
+      ""The lights are bothering him""
+    ],
+    ""Tension headache"": [
+      ""Diagnosed with a tension headache""
+    ]
+  }
+]
+",0
 1300840,"Cold sweats overnight, body hot to the touch in the morning but no fever (98.7). Dehydrated, body sore, head ache. Numb finger tips.","['Cold sweat', 'Dehydration', 'Headache', 'Hypoaesthesia', 'Pain', 'Skin warm']","[
   {
     ""Cold sweat"": [
@@ -16735,6 +16795,28 @@ vaers_id,symptom_text,symptom_list,llm_result_formatted,final_corrected_version,
     ]
   }
 ]",1
+2787882,"I noticed about 1-2hrs after vaccine booster administered. My nose started tingling. Then it slowly began to turn numb. The tingling spread to my upper lip, then to the tops of my cheaks. By the end of the day, most of the normal sensation returned. But it is 10:58am the next day (Aug 31st) and I still have very slight tingling in the bulb of my nose.  My nose has never tingled/gone numb from a vaccine before. I am  also experiencing a lot of joint pain/fibromyalgia flare up. But for me this happens after every covid vaccine so far. I'm not experiencing the debilitating headache I've gotten with all previous Pfizer covid boosters. So, that is different. The other vaccine was a flu vaccine. I don't know which one. I received covid booster in one arm and flu vaccine in the other. In response, I contacted my doctor by email. I haven't taken any other actions.","['Arthralgia', 'Condition aggravated', 'Fibromyalgia', 'Hypoaesthesia oral', 'Paraesthesia', 'Paraesthesia oral']",No temporal information found,"[
+  {
+    ""Paraesthesia"": [
+      ""My nose started tingling.""
+    ]
+  },
+  {
+    ""Arthralgia"": [
+      ""a lot of joint pain""
+    ],
+    ""Fibromyalgia"": [
+      ""fibromyalgia flare up""
+    ],
+    ""Paraesthesia oral"": [
+      ""The tingling spread to my upper lip""
+    ]
+  }, {""Condition aggravated"": [
+      ""none""
+    ], ""Hypoaesthesia oral"": [
+      ""none""
+    ]}
+]",0
 1390961,"not able to function; sleeps all day; lost 14 pounds since the second dose of the vaccine/lost another 4 pounds over the weekend; chest hurt; Shortness of breath; fatigued and very weak; fatigued and very weak; Headache; cannot focus on school online; blood pressure goes up and down; heart rate goes up and down; Dizziness; muscle mass depleting; This is a spontaneous report from a contactable consumer (patient's parent). A 17-year-old male patient received BNT162B2 (Pfizer-BioNTech COVID-19 mRNA vaccine), dose 2 via an unspecified route of administration, administered in the right arm, at age 17 years, on 12Apr2021 (Batch/Lot Number: EW0158) as 2ND DOSE, SINGLE DOSE for COVID-19 immunisation. Medical history included pressure in his eye from an injury, asthma (diagnosed when the patient was about 2) and has family members with asthma and heart conditions. Patient is in perfect health, he works out 6 days a week, and does football conditioning 5 days a week. History of all previous immunization with the Pfizer vaccine considered as suspect (or patient age at first and subsequent immunizations if dates of birth or immunizations are not available) was none. Concomitant medication included timolol taken for pressure in his eye from an injury from an unspecified start date to 20May2021. Additional vaccines administered on same date of the Pfizer Suspect was none. The patient historically received first dose of BNT162B2 (Pfizer-BioNTech COVID-19 mRNA vaccine, Lot Number: EP7534) at the left arm at age 17 years on 22Mar2021 for COVID-19 immunization. The patient got his second dose of the vaccine on 12Apr2021 and shorty after on 19Apr2021, he became very fatigued, very weak, his chest hurt, and he had shortness of breath. On Apr2021, patient had dizziness. The patient used to have bulky arms and now you can see his muscle mass depleting in Apr2021. The patient cannot focus on school online because of the headaches from 19Apr2021. The patient's blood pressure goes up and down from 19Apr2021. For days from 19Apr2021, the patient's heart rate will be fine in the 60s and it goes up to 120 or 130 with chest pain, it fluctuates depending on the day.  The patient visited the emergency room on 05May2021, but was not admitted and no one knows what was going on with the vaccine. It was also reported that the patient lost 14 pounds on 25Apr2021 since the second dose of the vaccine. They knew the patient has already lost 10 pounds and then yesterday, 25May2021, the patient weighed himself and noticed he has lost another 4 pounds over the weekend. Patient had bloodwork on 20May2021 and it was all negative. The primary care provider was concerned about the weight loss so she ran a bunch of blood work. The patient is negative for COVID test and chest x-ray on 21May2021 and he has had multiple tests done. The patient went to his primary care provider on 25May2021 (yesterday from the time off reporting) and the reporter mentioned that maybe can they look at this as being a side effect from the vaccine. The patient's doctor laughed and said nothing has been proven yet about this. The reporter felt that this is a reaction to the vaccine. At the time of reporting on 26May2021, the patient was not able to function and sleeps all day. The patient also underwent lab tests and procedures that includes being tested negative for mono twice now (on unspecified dates). Clarified that they have not filed a safety report with Pfizer on the patient's events. The outcome of the events 'dizziness', 'lost 14 pounds since the second dose of the vaccine/lost another 4 pounds over the weekend', 'muscle mass depleting', 'cannot focus on school online', 'not able to function' and 'sleeps all day' was unknown; while for the other events, it was not recovered.","['Asthenia', 'Blood pressure fluctuation', 'Chest pain', 'Disturbance in attention', 'Dizziness', 'Dyspnoea', 'Fatigue', 'Headache', 'Heart rate', 'Heart rate abnormal', 'Infectious mononucleosis', 'Muscle atrophy', 'Somnolence', 'Weight decreased']","[
   {
     ""Asthenia"": [
@@ -52747,6 +52829,28 @@ vaers_id,symptom_text,symptom_list,llm_result_formatted,final_corrected_version,
     ""Blood magnesium"": [""none""]
   }
 ]",0
+2043451,"Patient c/o nausea, dizziness, loopy, faintness, Nurse evaluated and gave her some snacks and fluids due to patient stated she had not eaten that morning.  no other signs came up and she had stated she was feeling better and was released to go home.  Patient's boss called and stated patient was not doing well since she went home, called patient- and she stated that she is unable to walk straight and had all the same symptoms she had in the clinic, informed  provider and she asked to have patient go to the nearest hospital and be evaluated for possible allergic reaction. she was evaluated and deemed no allergic reaction to covid vaccine and was given ok to receive 2nd dose was seen at 1705 1-14-2022","['Balance disorder', 'Dizziness', 'Haemoglobin increased', 'Nausea', 'Orthostatic hypotension', 'Syncope']",No temporal information found,"[
+  {
+    ""Dizziness"": [
+      ""dizziness""
+    ],
+    ""Nausea"": [
+      ""nausea""
+    ],
+    ""Syncope"": [
+      ""faintness""
+    ]
+  },
+  {
+    ""Balance disorder"": [
+      ""unable to walk straight""
+    ]
+  }, {""Haemoglobin increased"": [
+      ""none""
+    ],  ""Orthostatic hypotension"": [
+      ""none""
+    ]}
+]",0
 1136113,"On March 17,2021 one day after vaccine woke up to a red, hard, swollen, itchy arm with a light headache. It continue to be like that until March 20,2021.  I also took tylenol to help and iced it.   On March 20 it was a little pink , much better. On March 25,2021 it became hard, hot, swollen, itchy, and a bigger headache and some vomiting.        Sidenote- The vaccine was administered to the middle part of my arm.  Had two professionals say it was to low ,should have been higher on the arm. Taking tylenol and icing.","['Erythema', 'Headache', 'Peripheral swelling', 'Pruritus', 'Skin induration', 'Vomiting']","[
   {
     ""Erythema"": [
@@ -64429,6 +64533,30 @@ vaers_id,symptom_text,symptom_list,llm_result_formatted,final_corrected_version,
     ""Eye pain"": ""none""
   }
 ]",1
+1697775,"within 1/2 an hour of receiving the 2nd shot, while driving home from  dodger stadium, i was struck by a horrible headache and severe dizziness. that was over 6 months ago and these same symptoms persist to this day. they are sometimes accompanied by nausea, fatigue, and anxiety. i have seen my internist 3 times, an allergist, an ENT and a neurologist all in an effort to aleve these symptoms. nothing has worked so far.","['Anxiety', 'Dizziness', 'Fatigue', 'Headache', 'Nausea', 'Red blood cell sedimentation rate']",No temporal information found,"[
+  {
+    ""Headache"": [
+      ""horrible headache""
+    ],
+    ""Dizziness"": [
+      ""severe dizziness""
+    ]
+  },
+  {
+    ""Anxiety"": [
+      ""anxiety""
+    ],
+    ""Fatigue"": [
+      ""fatigue""
+    ],
+    ""Nausea"": [
+      ""nausea""
+    ]},{
+    ""Red blood cell sedimentation rate"": [
+      ""none""
+    ]
+  }
+]",0
 1295719,"Body aches started around 8pm Chills began and Temperature of 99.7 recorded around 10pm. Treated with ibuprofen Temperature of 100.4 recorded at 10:30pm  Temperature of 99.9 recorded the following day (5/6/2021) at 11am, along with continued body aches and fatigue. Took additional ibuprofen Symptoms subsided around 7pm on 5/6/2021","['Body temperature increased', 'Chills', 'Fatigue', 'Pain']","[
   {
     ""Pain"": [
@@ -80900,6 +81028,30 @@ vaers_id,symptom_text,symptom_list,llm_result_formatted,final_corrected_version,
     ]
   }
 ]",,1
+1758982,"Severe shivers, sweating, nausea, fatigue and headache.  Lost 4 pound over night.  Initial 12 hours the worst.  Then 24 hours of fatigue, headache and nausea.  Symptoms resolving on day 4.","['Chills', 'Fatigue', 'Headache', 'Hyperhidrosis', 'Nausea', 'Weight decreased']",No temporal information found,"[
+  {
+    ""Chills"": [
+      ""severe shivers""
+    ],
+    ""Fatigue"": [
+      ""fatigue""
+    ],
+    ""Headache"": [
+      ""headache""
+    ],
+    ""Hyperhidrosis"": [
+      ""sweating""
+    ],
+    ""Nausea"": [
+      ""nausea""
+    ]
+  },
+  {
+    ""Weight decreased"": [
+      ""Lost 4 pound over night""
+    ]
+  }
+]",0
 2691223,"COULD NOT MOVE; PHLEBITIS; RESIDUAL SORENESS AT SHOT ADMINISTERED SITE; CAME DOWN WITH A TERRIBLE CASE OF COVID; CLOTTING SIX WEEKS AFTER THE SHOT/ DEVELOPED CLOTS; BODY STIFF / STIFF NECK FOR 3 WEEKS; This spontaneous report received from a patient concerned a 69 year old female. The patient's height, and weight were not reported. The patient's concurrent conditions included: varicosity on legs, and other pre-existing medical conditions included: Patient has no known allergies. The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, route of admin, and batch number were not reported) dose was not reported, 1 total administered on left arm on 09-JUN-2021 for covid-19 prophylaxis. The batch number was not reported and has been requested. Age at time of vaccination 69 years old. No concomitant medications were reported.  On an unspecified date in JUN-2021, the patient experienced stiff neck for 3 weeks. On an unspecified date in JUL-2021, six weeks after the shot the patient experienced clotting. On an unspecified date in DEC-2021, six 6 months after the shot, the patient came down with a terrible case of covid. Patient had stiff neck for three weeks, patient could not move and body was like a stiff figure. The reaction travelled to patient's legs. Patient said that she has a prior history of varicosity on her legs, and they developed clots. Patient had to use warm compresses on her legs, and then, it turned to phlebitis. Patient took Tylenol and Advil for weeks due to the reaction. Patient mentioned she still has residual soreness where the shot was administered, but she was not sure if this was a result of the shot. Patient noted, there was a silver lining, as the varicosity on her legs, which patient had prior to the shot, shrank. Patient said the varicosities were bulging, and then, they shrank. Patient commented she was going to have a procedure to reduce the veins, but the shot did the trick. Treatment medications (dates unspecified) included: ibuprofen, and paracetamol. The action taken with covid-19 vaccine ad26.cov2.s was not applicable. The outcome of the came down with a terrible case of covid, clotting six weeks after the shot/ developed clots, body stiff / stiff neck for 3 weeks, could not move, phlebitis and residual soreness at shot administered site was not reported. This report was serious (Other Medically Important Condition). This report was associated with product quality complaint: 90000298351.; Sender's Comments: V0: 20230964406-Clotting six weeks after the shot/ developed clots,. The event has a compatible/suggestive temporal relationship, is unlabeled, and is scientifically plausible. There is no information on any other factors potentially associated with the event. Therefore, this event is considered consistent with vaccine administration.","['Hypokinesia', 'Injection site pain', 'Musculoskeletal stiffness', 'Phlebitis', 'Thrombosis']","[
   {
     ""Musculoskeletal stiffness"": [
@@ -92479,6 +92631,42 @@ vaers_id,symptom_text,symptom_list,llm_result_formatted,final_corrected_version,
     ]
   }
 ]",,1
+2347607,"J&J Dose 5/15/21 (lot NA) COVID Positive 1/10/22  1/10/22: The patient is a 64 year old male with past history of hyperlipidemia, obesity, depression, and obstructive sleep apnea who was admitted with hypoxia secondary to suspected COVID-19 pneumonia.  History is obtained from chart review as well as discussion with the patient and the ED provider.  Patient has a history of sleep apnea although he has not uses CPAP in some time.  He has received 2 COVID-19 vaccinations.  Started feeling poorly approximately 1 week ago.  Has had a productive cough as well as shortness of breath, fatigue, and diarrhea.  Has had some nausea but no vomiting.  He presented to the ER today and O2 saturations on room air were noted to be 79%.  He is currently on 2.5 L of oxygen. He has had some fevers and chills during the 1st part of his illness but none the last few days.  He denies any chest pain, abdominal pain.  He does not smoke or have a history of lung disease.  1/14/22: Patient is a 64-year-old male admitted to hospital for acute hypoxic respiratory failure due to COVID-19 pneumonia, patient was treated with supplemental oxygen medical therapy including antibiotic Decadron and remdesivir, as time progressed patient clinically improved. Patient will be discharged to home with supplemental oxygen 4 L at rest and 6 L with activity, Decadron and antibiotics for completion.  Patient also referred to program at home.","['Acute respiratory failure', 'Chills', 'Diarrhoea', 'Dyspnoea', 'Fatigue', 'Feeling abnormal', 'Hypoxia', 'Nausea', 'Productive cough', 'Pyrexia']",No temporal information found,"[
+    {
+        ""Chills"": [
+            ""chills""
+        ],
+        ""Diarrhoea"": [
+            ""diarrhea""
+        ],
+        ""Dyspnoea"": [
+            ""shortness of breath""
+        ],
+        ""Fatigue"": [
+            ""fatigue""
+        ],
+        ""Feeling abnormal"": [
+            ""feeling poorly""
+        ],
+        ""Nausea"": [
+            ""nausea""
+        ],
+        ""Productive cough"": [
+            ""productive cough""
+        ],
+        ""Pyrexia"": [
+            ""fevers""
+        ]
+    },
+    {
+        ""Acute respiratory failure"": [
+            ""acute hypoxic respiratory failure""
+        ],
+        ""Hypoxia"": [
+            ""hypoxia""
+        ]
+    }
+]",0
 1164014,"Pt presents with syncopal episode 5 minutes post vaccination of 1 dose Janssen vaccine to left deltoid. Pt was in his vehicle when he started to feel lightheaded and had +LOC. His girlfriend who was sitting next to him states that he was unconscious for about 15 seconds before regaining consciousness. He had no head injury or other trauma. On immediate evaluation he is conscious and endorses diaphoresis and lightheadedness. He states that he has had similar episodes of syncope in the past following vaccinations. He denies medical problems, medications, or any Hx of allergies. Pt denies swelling of the face, throat tightness, difficulty swallowing, itching of the skin, SOB, CP, nausea or vomiting.  Following evaluation by EMS, Pt refused medical transport and signed out AMA. Pt felt improved and was driven home by his girlfriend.","['Dizziness', 'Hyperhidrosis', 'Loss of consciousness', 'Syncope']","[
   {
     ""Dizziness"": [
@@ -101348,6 +101536,24 @@ vaers_id,symptom_text,symptom_list,llm_result_formatted,final_corrected_version,
     ]
   }
 ]",,1
+1213224,"After the Covid-19 Vaccine on Mar 26, 2021 I had an adverse reaction to something that may or may not be related.  On Friday, Apr 2, at 2:00pm I felt a weird case of Vertigo that lasted approximately 3 mins.  The next day, Sat. Apr 3, at around 9:30pm I had a longer very severe case of the vertigo.  I went to bed shortly afterwards.  On Sunday,Easter morning April 4, at 6:30am I woke up with a very severe case of vertigo (Meniere's Disease).  It lasted about 3 hours of sever heaving and extreme dizziness.  I could not cope and had to just lay there not knowing what was wrong/going on.  It finally went away after about 3 hours.  The next morning, Mon. Apr 5, I called my Dr  to make an appointment and went in 2 days later.  There were no other cases of it and he could not figure what caused it and I either could I.  So far so good that I have not had another reaction and feel fine today after nearly 3 weeks.  :-)","['Dizziness', ""Meniere's disease"", 'Retching', 'Vertigo']",No temporal information found,"[
+    {
+        ""Vertigo"": [
+            ""I felt a weird case of Vertigo"",
+        ]
+    },
+    {
+        ""Dizziness"": [
+            ""extreme dizziness""
+        ],
+        ""Meniere's disease"": [
+            ""vertigo (Meniere's Disease)""
+        ],
+        ""Retching"": [
+            ""sever heaving""
+        ]
+    }
+]",0
 1248924,"HEARTBURN; NAUSEA; FEVER 100 DEGREES; HEADACHE; MODERATE DISCOMFORT; This spontaneous report received from a patient concerned a female of unspecified age. The patient's weight, height, and medical history were not reported. The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, intramuscular, batch number: Unknown, and batch number: UNKOWN expiry: UNKNOWN) .5 ml, administered on 04-MAR-2021 03:00 for prophylactic vaccination. No concomitant medications were reported. On 04-MAR-2021, the subject experienced nausea. On 04-MAR-2021, the subject experienced heartburn. On 04-MAR-2021, the subject experienced headache. On 05-MAR-2021, the subject experienced fever 100 degrees. On 05-MAR-2021, the subject experienced moderate discomfort. Laboratory data included: Body temperature (NR: not provided) 100 DEGREES. The action taken with covid-19 vaccine ad26.cov2.s was not applicable. The patient had not recovered from nausea, heartburn, headache, and fever 100 degrees, and the outcome of moderate discomfort was not reported. This report was non-serious.","['Discomfort', 'Dyspepsia', 'Headache', 'Nausea', 'Pyrexia']","[
   {
     ""Nausea"": [
@@ -110973,6 +111179,36 @@ vaers_id,symptom_text,symptom_list,llm_result_formatted,final_corrected_version,
     ]
   }
 ]",,1
+1256081,"April  14, my sister was transported to hospital feeling faint and numbness in her left leg. As a result, she was admitted and treated for: ? blood pressure readings as low as 82/43, 76/50 while standing ? blood clots on her heart that traveled to her brain that were causing multiple mini strokes ? 95% blockage in her right heart vessel which required a stent  ? 50% and 60% blockage in other chambers that will require attention She was given heparin and then switched to a different blood thinner to dissolve the clots.  she was discharged on April 23rd with instructions to followup with her cardiologist and neurologist.","['Atrioventricular block', 'Blood pressure decreased', 'Cerebral thrombosis', 'Coronary artery occlusion', 'Dizziness', 'Hypoaesthesia', 'Intracardiac thrombus', 'Transient ischaemic attack']",No temporal information found,"[
+    {
+        ""Blood pressure decreased"": [
+            ""blood pressure readings as low as 82/43, 76/50 while standing""
+        ],
+        ""Cerebral thrombosis"": [
+            ""blood clots on her heart that traveled to her brain that were causing multiple mini strokes""
+        ],
+        ""Coronary artery occlusion"": [
+            ""95% blockage in her right heart vessel which required a stent""
+        ],
+        ""Dizziness"": [
+            ""feeling faint""
+        ],
+        ""Hypoaesthesia"": [
+            ""numbness in her left leg""
+        ],
+        ""Intracardiac thrombus"": [
+            ""blood clots on her heart""
+        ]
+    },
+    {
+        ""Transient ischaemic attack"": [
+            ""multiple mini strokes""
+        ]
+    },
+    {
+        ""Atrioventricular block"": [""none""],
+    }
+]",0
 1117861,"Chills, 103 fever, nausea, dizziness,aches, headache, fatigue.  Came and went within 24 hours.  Red face. On and off since vaccine Elevated blood pressure. Ongoing  Tinnitus. Noticed last night, getting worse.","['Blood pressure increased', 'Chills', 'Dizziness', 'Erythema', 'Fatigue', 'Headache', 'Nausea', 'Pyrexia', 'Tinnitus']","[
   {
     ""Chills"": [
@@ -115305,6 +115541,41 @@ vaers_id,symptom_text,symptom_list,llm_result_formatted,final_corrected_version,
     ]
   }
 ]",,1
+1198229,"Patient reports shortness of breath, fevers, chills, diffuse myalgias along with right-sided back and chest pain since receiving the COVID vaccine. Symptoms began a few hours after receiving the vaccine. She reports localized pain to the injection site but denies redness or swelling. She reports she had fevers for 2 to 3 days, highest being of 101. She presented to the ED on 4/10/21 because of worsening shortness of breath with mild cough and pain in her back.  This is exertional along with pleuritic. She reports she has overall improved from the myalgias but is generally not feeling well and continues to have dyspnea.","['Back pain', 'Chest pain', 'Chills', 'Cough', 'Dyspnoea', 'Injection site pain', 'Malaise', 'Myalgia', 'Pain', 'Pyrexia']",No temporal information found,"[
+  {
+    ""Back pain"": [
+      ""pain in her back""
+    ],
+    ""Chest pain"": [
+      ""right sided back and chest pain""
+    ],
+    ""Chills"": [
+      ""chills""
+    ],
+    ""Dyspnoea"": [
+      ""shortness of breath""
+    ],
+    ""Injection site pain"": [
+      ""localized pain to the injection site""
+    ],
+    ""Malaise"": [
+      ""not feeling well""
+    ],
+    ""Myalgia"": [
+      ""diffuse myalgias""
+    ],
+    ""Pyrexia"": [
+      ""had fevers for 2 to 3 days""
+    ]
+  },
+  {
+    ""Cough"": [
+      ""mild cough""
+    ]
+  }, {""Pain"": [
+      ""none""
+    ]}
+]",0
 1184765,"About 6 hours post injection started feeling chills, body aches, foggy, head ache. Was in and out of state of consciousness sleeping between 8pm-1130pm 4/8/2021. Fever as high as 103 f. Wasn?t able to move felt like pins and needles over my whole body. Felt like I was on fire. Feeling as if I was outside my own body watching myself suffer. Lowest fever was 101.4 around 1am finally able to get up out of bed and feeling not so out of it. Still had chills and body aches until 6am. Lingering head ache and feeling tired and wore out as of 11am 4/9/2021","['Altered state of consciousness', 'Chills', 'Fatigue', 'Feeling abnormal', 'Feeling hot', 'Headache', 'Pain', 'Pyrexia']","[
   {
     ""Chills"": [
