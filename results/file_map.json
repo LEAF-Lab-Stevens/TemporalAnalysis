@@ -1,24 +1,90 @@
 {
-  "openai/zeroshot": "openai_baseline_with_temporal_final.csv",
-  "openai/reform_anchor": "openai_premium_updated_results_final.csv",
-  "openai/reform_compass": "openai_cascade_vanilla_results_final.csv",
-  "openai/inform_anchor": "openai_vanilla_anchor_updated_results_with_temporal_final.csv",
-  "openai/inform_compass": "openai_plain_results_with_temporal_final.csv",
-  "claude/zeroshot": "claude_baseline_0shot_with_temporal_final.csv",
-  "claude/inform_compass": "claude_plain_results_with_temporal_final.csv",
-  "claude/reform_anchor": "claude_premium_updated_results_with_temporal_final.csv",
-  "claude/reform_compass": "claude_cascade_vanilla_results_with_temporal_final.csv",
-  "claude/inform_anchor": "claude_vanilla_anchor_updated_results_with_temporal_final.csv",
-  "llama/zeroshot": "llama3.3_70b_with_temporal_baseline_final.csv",
-  "llama/inform_compass": "llama70b_plain_with_temporal_final.csv",
-  "llama/reform_anchor": "llama70b_premium_updated_with_temporal_final.csv",
-  "llama/reform_compass": "llama70b_cascade_vanilla_with_temporal_final.csv",
-  "llama/inform_anchor": "llama70b_vanilla_anchor_updated_with_temporal_final.csv",
-  "medgemma/zeroshot": "medgemma_with_temporal_baseline_final.csv",
-  "medgemma/inform_compass": "medgemma_plain_with_temporal_final.csv",
-  "medgemma/reform_anchor": "medgemma_premium_updated_with_temporal_final.csv",
-  "medgemma/reform_compass": "medgemma_cascade_vanilla_with_temporal_final.csv",
-  "medgemma/inform_anchor": "medgemma_vanilla_anchor_updated_with_temporal_final.csv",
-  "openai/temporal_gate": "temporal_gate_final.csv",
-  "claude/temporal_gate": "claude_temporal_gate_final.csv"
+  "openai/zeroshot": {
+    "paper_name": "CRAFT w/o V",
+    "file": "openai/openai_baseline_with_temporal_final.csv.gz"
+  },
+  "openai/reform_anchor": {
+    "paper_name": "GUIDE",
+    "file": "openai/openai_premium_updated_results_final.csv.gz"
+  },
+  "openai/reform_compass": {
+    "paper_name": "CRAFT-G",
+    "file": "openai/openai_cascade_vanilla_results_final.csv.gz"
+  },
+  "openai/inform_anchor": {
+    "paper_name": "PIVOT",
+    "file": "openai/openai_vanilla_anchor_updated_results_with_temporal_final.csv.gz"
+  },
+  "openai/inform_compass": {
+    "paper_name": "CRAFT-Full",
+    "file": "openai/openai_plain_results_with_temporal_final.csv.gz"
+  },
+  "claude/zeroshot": {
+    "paper_name": "CRAFT w/o V",
+    "file": "claude/claude_baseline_0shot_with_temporal_final.csv.gz"
+  },
+  "claude/inform_compass": {
+    "paper_name": "CRAFT-Full",
+    "file": "claude/claude_plain_results_with_temporal_final.csv.gz"
+  },
+  "claude/reform_anchor": {
+    "paper_name": "GUIDE",
+    "file": "claude/claude_premium_updated_results_with_temporal_final.csv.gz"
+  },
+  "claude/reform_compass": {
+    "paper_name": "CRAFT-G",
+    "file": "claude/claude_cascade_vanilla_results_with_temporal_final.csv.gz"
+  },
+  "claude/inform_anchor": {
+    "paper_name": "PIVOT",
+    "file": "claude/claude_vanilla_anchor_updated_results_with_temporal_final.csv.gz"
+  },
+  "llama/zeroshot": {
+    "paper_name": "CRAFT w/o V",
+    "file": "llama/llama3.3_70b_with_temporal_baseline_final.csv.gz"
+  },
+  "llama/inform_compass": {
+    "paper_name": "CRAFT-Full",
+    "file": "llama/llama70b_plain_with_temporal_final.csv.gz"
+  },
+  "llama/reform_anchor": {
+    "paper_name": "GUIDE",
+    "file": "llama/llama70b_premium_updated_with_temporal_final.csv.gz"
+  },
+  "llama/reform_compass": {
+    "paper_name": "CRAFT-G",
+    "file": "llama/llama70b_cascade_vanilla_with_temporal_final.csv.gz"
+  },
+  "llama/inform_anchor": {
+    "paper_name": "PIVOT",
+    "file": "llama/llama70b_vanilla_anchor_updated_with_temporal_final.csv.gz"
+  },
+  "medgemma/zeroshot": {
+    "paper_name": "CRAFT w/o V",
+    "file": "medgemma/medgemma_with_temporal_baseline_final.csv.gz"
+  },
+  "medgemma/inform_compass": {
+    "paper_name": "CRAFT-Full",
+    "file": "medgemma/medgemma_plain_with_temporal_final.csv.gz"
+  },
+  "medgemma/reform_anchor": {
+    "paper_name": "GUIDE",
+    "file": "medgemma/medgemma_premium_updated_with_temporal_final.csv.gz"
+  },
+  "medgemma/reform_compass": {
+    "paper_name": "CRAFT-G",
+    "file": "medgemma/medgemma_cascade_vanilla_with_temporal_final.csv.gz"
+  },
+  "medgemma/inform_anchor": {
+    "paper_name": "PIVOT",
+    "file": "medgemma/medgemma_vanilla_anchor_updated_with_temporal_final.csv.gz"
+  },
+  "openai/temporal_gate": {
+    "paper_name": "temporal gate (not in paper)",
+    "file": "openai/temporal_gate_final.csv.gz"
+  },
+  "claude/temporal_gate": {
+    "paper_name": "temporal gate (not in paper)",
+    "file": "claude/claude_temporal_gate_final.csv.gz"
+  }
 }
